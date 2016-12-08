@@ -1,6 +1,6 @@
 ## 정의
 
-배포된 Compliance 산출물 (Distributed Compliance Artifacts) - 식별된 License가 요구하는 일련의 산출물 (공급된 Software와 함께 제공됨). 여기에는 다음 사항이 포함된다 (이에 국한되지 않음). : 저작권 고지, License 사본, 수정 내용 고지, 저작자 고지, Source Code, Written Offer 등. 
+**배포된 Compliance 산출물 (Distributed Compliance Artifacts)** - 식별된 License가 요구하는 일련의 산출물 (공급된 Software와 함께 제공됨). 여기에는 다음 사항이 포함된다 (이에 국한되지 않음). : 저작권 고지, License 사본, 수정 내용 고지, 저작자 고지, Source Code, Written Offer 등. 
 
 FOSS (Free and Open Source Software) - software subject to one or more licenses that meet the Open
 
