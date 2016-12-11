@@ -28,4 +28,7 @@ FOSS 정책을 생성 및 기록하고 이를 Software Staff이 인식하게 할
 - 1.2.3 적어도 Software Staff의 85%가 현재 (위에서 정의한) 완료한 상태
 
 #### 해석:
-Ensure the Software Staff have recently attended FOSS training and that a core set of relevant FOSS topics are covered. The intent is to ensure a core base level set of topics are covered but a typical training program would likely be more comprehensive than what is required here. 
+Software Staff이 최근 FOSS Training에 참석했는지, FOSS Training이 핵심 FOSS 주제를 다루는지를 확인한다. 이 의도는 핵심 기본 수준의 주제를 다루는 것이지만, 일반적인 Training Program은 여기서 요구하는 것 보다 더 포괄적일 수도 있다. 
+
+## G2: 
+Assign Responsibility for Achieving Compliance
