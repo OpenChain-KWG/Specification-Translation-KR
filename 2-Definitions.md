@@ -2,13 +2,9 @@
 
 **배포된 Compliance 산출물 (Distributed Compliance Artifacts)** - 식별된 License가 요구하는 일련의 산출물 (공급된 Software와 함께 제공됨). 여기에는 다음 사항이 포함된다 (이에 국한되지 않음). : 저작권 고지, License 사본, 수정 내용 고지, 저작자 고지, Source Code, Written Offer 등. 
 
-FOSS (Free and Open Source Software) - software subject to one or more licenses that meet the Open
+FOSS (Free and Open Source Software) - Open Source Initiative (OpenSource.org)에서 발표한 Open Source 정의 혹은 Free Software Foundation에서 발표한 Free Software 정의를 충족하는 License 혹은 유사한 License가 하나 이상 적용된 Software
 
-Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software
-
-Definition (published by the Free Software Foundation) or similar license.
-
-FOSS Liaison - a designated person who is assigned to receive external FOSS inquires.
+FOSS 연락담당자 (Liaison) - 외부 FOSS 문의를 받도록 지정된 사람
 
 Identified Licenses - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.
 
