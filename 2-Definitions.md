@@ -16,5 +16,4 @@ SPDX (Software Package Data Exchange) – Software Package에 대한 License 및
 
 Supplied Software – 한 조직에서 제3자(예: 다른 조직 혹은 개인)에게 제공하는 Software
 
-확인 산출물 (Verification Artifacts) - 주어진 요구사항이 만족된 것으로 간주하기 위해 
-evidence that must exist in order for a given requirement to be considered satisfied
+확인 산출물 (Verification Artifacts) - 주어진 요구사항을 만족한 것으로 판단하기 위해 존재해야 하는 증빙
