@@ -6,14 +6,15 @@ FOSS (Free and Open Source Software) - Open Source Initiative (OpenSource.org)�
 
 FOSS 연락담당자 (Liaison) - 외부 FOSS 문의를 받도록 지정된 사람
 
-Identified Licenses - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.
+식별된 (Identified) Licenses - 해당 License를 식별하기 위한 적절한 방법을 수행한 결과로 식별된 FOSS License 세트
 
-OpenChain Conforming – a program that satisfies all the requirements of this specification.
+OpenChain Conforming - 이 Specification의 모든 요구사항을 만족시키는 Program
 
-Software Staff - any employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software. Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.
+Software Staff - Supplied Software를 준비하기 위해 정의, 기여하거나 책임을 지는 모든 직원 또는 계약자. 조직에 따라 Software 개발자, Release Engineer, 품질 Engineer, 제품 마케팅 및 제품 관리가 포함될 수 있지만, 이에 국한되지 않는다. 
 
-SPDX or Software Package Data Exchange – the format standard created by the SPDX Working Group for exchanging license and copyright information for a given software package. A description of the SPDX specification can be found at ww.spdx.org.
+SPDX (Software Package Data Exchange) – Software Package에 대한 License 및 저작권 정보를 교환하기 위해 SPDX Working Group이 만든 표준 형식이다. SPDX Specification에 대한 설명은 www.spdx.org에서 확인할 수 있다. 
 
-Supplied Software – software that an organization delivers to third parties (e.g., other organizations or individuals).
+Supplied Software – 한 조직에서 제3자(예: 다른 조직 혹은 개인)에게 제공하는 Software
 
-Verification Artifacts - evidence that must exist in order for a given requirement to be considered satisfied
+확인 산출물 (Verification Artifacts) - 주어진 요구사항이 만족된 것으로 간주하기 위해 
+evidence that must exist in order for a given requirement to be considered satisfied
