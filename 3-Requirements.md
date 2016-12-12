@@ -73,7 +73,7 @@ FOSS 책임이 효과적으로 할당되었는지 확인한다.
 #### 설명: 
 Supplied Software를 구성하는 모든 FOSS Component를 확인하고 나열하기 위한 Process가 존재하는지 확인한다. 이 목록표는 Supplied Software에 적용되는 각각의 배포 의무 및 제한사항을 이해하기 위해 각 Component의 License 조항을 체계적으로  Review할 수 있도록 존재해야 한다. 또한 이 기록된 목록표는 Process가 수행되었다는 증빙으로 사용된다. 
 
-### 3.2 FOSS Program은 Supplied Software에 대해 Software Staff이 접하게 되는 일반적인 FOSS Use Case를 처리할 수 있어야 하고, 여기에는 다음과 같은 Use Case가 포함될 수 있다. - (아래 리스트가 총망라한 것은 아니고, 조직에 따라 아래의 모든 사항이 적용되는 것도 아닌 것에 유의) Supplied Software의 일부가 :   
+### 3.2 FOSS Program은 Supplied Software에 대해 Software Staff이 접하게 되는 일반적인 FOSS Use Case를 처리할 수 있어야 하고, 여기에는 다음과 같은 Use Case가 포함될 수 있다. - (아래 리스트가 모든 경우를 포함하지는 않으며 또한, 조직에 따라 아래의 모든 사항이 적용되는 것은 아님) Supplied Software의 일부가 :   
 - Binary Form으로 배포되는 경우 
 - Source Form으로 배포되는 경우
 - 다른 FOSS와 통합되어 Copyleft 의무 사항을 유발시키는 경우
@@ -81,10 +81,32 @@ Supplied Software를 구성하는 모든 FOSS Component를 확인하고 나열�
 - FOSS 혹은 Supplied Sofware내 다른 Component와 상호 작용하면서 호환되지 않는 License하에 있는 다른 Software를 포함하는 경우
 - 저작자 표시 요구사항이 있는 FOSS를 포함하는 경우
 
-The FOSS program must be capable of handling typical FOSS use cases encountered by Software Staff for Supplied Software, which may include the following use cases - when parts of the Supplied Software (note that the below list is neither exhaustive, nor may all of the below use cases apply depending on the organization): are distributed in binary form
+#### 확인 산출물 (Verification Artifact(s)):
+- 3.2.1 Supplied Software에 대해 Software Staff이 접할 수 있는 일반적인 FOSS Use Case를 처리할 수 있는 Process가 구현되었다. 
+
+#### 설명: 
+조직의 사업 실무 결과에 따른 조직의 일반적인 Use Case를 해결하기에 충분히 탄탄한 FOSS Program을 만든다. 
 
 
 ## G4: FOSS Content 문서 및 산출물 제공
+
+### 4.1 해당하는 식별된 License에서 요구하는대로 Supplied Software와 함께 제공하기 위한 다음의 배포 Compliance 산출물 (Distributed Compliance Artifact)을 준비하라. 여기에는 다음 내용이 포함될 수 있지만, 이에 국한되지는 않는다.: 
+- 저작권 고지(Copyright Notices)
+- 식별된 License의 사본
+- 수정 고지
+- 저작자 표시 (Attribution Notices)
+- 눈에 띄는 고지
+- Source Code
+- 요구되는 Build 방법 및 Script
+- Written Offer
+
+#### 확인 산출물 (Verification Artifact(s)):
+- 4.1.1 식별된 License에서 요구하는대로 Supplied Software와 함께 Distributed Compliance Artifact가 배포되도록 보장하는 Process를 설명하는 문서화된 절차가 존재한다. 
+
+- 4.1.2 Distributed Compliance Artifact의 사본은 보관되고 쉽게 검색할 수 있다 (예: Legal Notice, Source Code, SPDX 문서). 보관된 자료는 적어도 Supplied Software가 제공되는 한 혹은 식별된 License에서 요구하는 기한동안 존재하도록 한다 (둘 중 더 긴 것을 따름). 
+
+#### 설명:
+Supplied Software에 적용되는 식별된 License에서 요구하는대로 완전한 Compliance 산출물 집합이 Supplied Software와 함께 제공되는지 확인한다. 
 
 ## G5: FOSS Community 참여 이해
 
