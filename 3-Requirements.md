@@ -73,6 +73,15 @@ FOSS 책임이 효과적으로 할당되었는지 확인한다.
 #### 설명: 
 Supplied Software를 구성하는 모든 FOSS Component를 확인하고 나열하기 위한 Process가 존재하는지 확인한다. 이 목록표는 Supplied Software에 적용되는 각각의 배포 의무 및 제한사항을 이해하기 위해 각 Component의 License 조항을 체계적으로  Review할 수 있도록 존재해야 한다. 또한 이 기록된 목록표는 Process가 수행되었다는 증빙으로 사용된다. 
 
+### 3.2 FOSS Program은 Supplied Software에 대해 Software Staff이 접하게 되는 일반적인 FOSS Use Case를 처리할 수 있어야 하고, 여기에는 다음과 같은 Use Case가 포함될 수 있다. - (아래 리스트가 총망라한 것은 아니고, 조직에 따라 아래의 모든 사항이 적용되는 것도 아닌 것에 유의) Supplied Software의 일부가 :   
+- Binary Form으로 배포되는 경우 
+- Source Form으로 배포되는 경우
+- 다른 FOSS와 통합되어 Copyleft 의무 사항을 유발시키는 경우
+- 수정한 FOSS를 포함하는 경우
+- FOSS 혹은 Supplied Sofware내 다른 Component와 상호 작용하면서 호환되지 않는 License하에 있는 다른 Software를 포함하는 경우
+- 저작자 표시 요구사항이 있는 FOSS를 포함하는 경우
+
+The FOSS program must be capable of handling typical FOSS use cases encountered by Software Staff for Supplied Software, which may include the following use cases - when parts of the Supplied Software (note that the below list is neither exhaustive, nor may all of the below use cases apply depending on the organization): are distributed in binary form
 
 
 ## G4: FOSS Content 문서 및 산출물 제공
