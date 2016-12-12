@@ -65,6 +65,16 @@ FOSS 책임이 효과적으로 할당되었는지 확인한다.
 
 ## G3: FOSS Content Review 및 승인
 
+### 3.1 Supplied Softtware가 포함하는 모든 FOSS Component(및 각각 식별된 License)를 확인, 추적 및 보관하는 Process가 존재한다.  
+
+#### 확인 산출물 (Verification Artifact(s)):
+- 3.1.1 Supplied Software가 포함하는 FOSS Componnet 및 식별된 License 목록을 확인, 추척, 보관하는 문서화된 절차가 존재한다. 
+
+#### 설명: 
+Supplied Software를 구성하는 모든 FOSS Component를 확인하고 나열하기 위한 Process가 존재하는지 확인한다. 이 목록표는 Supplied Software에 적용되는 각각의 배포 의무 및 제한사항을 이해하기 위해 각 Component의 License 조항을 체계적으로  Review할 수 있도록 존재해야 한다. 또한 이 기록된 목록표는 Process가 수행되었다는 증빙으로 사용된다. 
+
+
+
 ## G4: FOSS Content 문서 및 산출물 제공
 
 ## G5: FOSS Community 참여 이해
