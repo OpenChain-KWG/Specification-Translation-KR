@@ -2,7 +2,7 @@
 
 ## G1: FOSS 책임 숙지
 
-### 1.1 Supplied Software 배포의 FOSS License Compliance를 관리하는 서면으로 작성된 FOSS 정책이 최소한 내부 의사 소통 공간에 존재한다.
+### 1.1 Supplied Software 배포 시, FOSS License Compliance 관리를 위한 문서화된 정책이 존재하고, 최소한 내부적으로 공유한다.
 
 #### 확인 산출물 (Verification Artifact(s)):
 - 1.1.1 문서화된 FOSS 정책이 존재한다.
@@ -109,5 +109,10 @@ Supplied Software를 구성하는 모든 FOSS Component를 확인하고 나열�
 Supplied Software에 적용되는 식별된 License에서 요구하는대로 완전한 Compliance 산출물 집합이 Supplied Software와 함께 제공되는지 확인한다. 
 
 ## G5: FOSS Community 참여 이해
+
+### 5.1 조직을 대신하여 직원이 공개적으로 접근 가능한 FOSS Project에 기여하는 것을 관리하는 문서화된 정책이 존재한다. 
+
+A written policy exists that governs contributions to publicly accessible FOSS projects by employees on behalf of the organization where, as a minimum, it must be internally communicated.
+
 
 ## G6: OpenChain 요구사항 준수 인증
