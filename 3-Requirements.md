@@ -2,7 +2,7 @@
 
 ## G1: FOSS 책임 숙지
 
-### 1.1 Supplied Software 배포 시, FOSS License Compliance 관리를 위한 문서화된 정책이 존재하고, 최소한 내부적으로 공유한다.
+### 1.1 문서화된 FOSS 정책이 존재한다. 이로써 Supplied Software 배포 시, FOSS License Compliance를 관리한다. 이는 최소 내부에서 접근할 수 있는 공간에 존재한다. 
 
 #### 확인 산출물 (Verification Artifact(s)):
 - 1.1.1 문서화된 FOSS 정책이 존재한다.
@@ -110,9 +110,25 @@ Supplied Software에 적용되는 식별된 License에서 요구하는대로 완
 
 ## G5: FOSS Community 참여 이해
 
-### 5.1 조직을 대신하여 직원이 공개적으로 접근 가능한 FOSS Project에 기여하는 것을 관리하는 문서화된 정책이 존재한다. 
+### 5.1 조직 대신 직원들이 공개적으로 접근 가능한 FOSS Project에 Contribution하는 것을 관리하는 문서화된 정책이 존재한다. 이는 최소 내부에서 접근할 수 있는 공간에 존재만 한다.
 
-A written policy exists that governs contributions to publicly accessible FOSS projects by employees on behalf of the organization where, as a minimum, it must be internally communicated.
+
+#### 확인 산출물 (Verification Artifact(s)):
+- 5.1.1 문서화된 FOSS 기여(Contribution) 정책이 존재한다.;
+
+- 5.1.2 모든 Software Staff이 FOSS 기여(Contribution) 정책의 존재를 알도록 하는 문서화된 절차(예: 교육, 내부 wiki, 혹은 다른 실제적인 의사 소통 방법을 통해)가 존재한다.
+
+
+#### 설명:
+FOSS에 공개적으로 기여(Contribution)하는 것과 관련된 정책 개발에 대해 합당한 고려를 하였는지 확인한다. 
+FOSS 기여(Contribution)
+
+Ensure an organization has given reasonable consideration to developing a policy with respect
+to publicly contributing to FOSS. The FOSS contribution policy can be made a part of the overall
+FOSS policy of an organization or be its own separate policy. In the situation where
+contributions are not permitted at all, a policy should exist making that position clear. 
+
+
 
 
 ## G6: OpenChain 요구사항 준수 인증
