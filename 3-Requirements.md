@@ -120,13 +120,8 @@ Supplied Software에 적용되는 식별된 License에서 요구하는대로 완
 
 
 #### 설명:
-FOSS에 공개적으로 기여(Contribution)하는 것과 관련된 정책 개발에 대해 합당한 고려를 하였는지 확인한다. 
-FOSS 기여(Contribution)
-
-Ensure an organization has given reasonable consideration to developing a policy with respect
-to publicly contributing to FOSS. The FOSS contribution policy can be made a part of the overall
-FOSS policy of an organization or be its own separate policy. In the situation where
-contributions are not permitted at all, a policy should exist making that position clear. 
+FOSS에 공개적으로 기여(Contribution)하는 것과 관련된 정책 개발에 대해 조직이 합당한 고려를 하였는지 확인한다. 
+FOSS 기여(Contribution) 정책은 조직의 전체 FOSS 정책의 일부로 만들수도 있고, 자체적인 별도의 정책으로 만들수도 있다. 기여(Contribution)이 전혀 허용되지 않는 상황이라면, 이를 명확히하는 정책이 있어야 한다. 
 
 
 
