@@ -124,6 +124,24 @@ FOSS에 공개적으로 기여(Contribution)하는 것과 관련된 정책 개�
 FOSS 기여(Contribution) 정책은 조직의 전체 FOSS 정책의 일부로 만들수도 있고, 자체적인 별도의 정책으로 만들수도 있다. 기여(Contribution)이 전혀 허용되지 않는 상황이라면, 이를 명확히하는 정책이 있어야 한다. 
 
 
+### 5.2 FOSS 기여 정책이 기여를 허용하는 경우, 기여가 FOSS 기여 정책을 준수하는지 확인하기 위한 Process가 존재한다. 여기에는 다음과 같은 고려사항이 포함될 수 있지만, 이에 국한되지는 않는다. : 
+- 
+ legal approval for license considerations
+ business rationale or approval
+ technical review of code to be contributed
+ community engagement and interaction, including a project’s Code of Conduct or
+equivalent
+ adherence to project-specific contribution requirements
+Verification Artifact(s):
+ 5.2.1 Provided the FOSS contribution policy permits contributions, a documented procedure
+exists that describes the FOSS contribution process.
+Rationale:
+Ensure an organization has a documented process for how the organization publicly contributes
+FOSS. A policy may exist such that contributions are not permitted at all. In that specific
+situation it is understood that no process may exist and this requirement would nevertheless be
+met. 
+
+
 
 
 ## G6: OpenChain 요구사항 준수 인증
