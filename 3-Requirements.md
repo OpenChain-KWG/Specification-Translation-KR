@@ -140,7 +140,12 @@ FOSS 기여(Contribution) 정책은 조직의 전체 FOSS 정책의 일부로 �
 기여(Contribution)을 전혀 허용하지 않는 정책이 있을 수도 있다. 이러한 특정 상황에서는 Process가 존재하지 않을 수 있으며, 그럼에도 이 요구사항은 충족되는 것이다. 
 
 
-
-
-
 ## G6: OpenChain 요구사항 준수 인증
+
+### 6.1 조직이 OpenChain 인증을 받으려면, OpenChain Conformance Specification version 1.0에 설명된 기준을 충족하는 FOSS Program이 있음을 확약해야 한다. 
+
+#### 확인 산출물 (Verification Artifact(s)):
+- 6.1.1 조직은 이 OpenChain Conformance Specification version 1.0의 모든 요구 사항을 충족하는 Program이 존재함을 확약한다. 
+
+#### 설명: 
+OpenChain Conforming인 Program이 조직에 있음을 선언하면, 해당 Program이 이 specification의 요구사항을 모두 충족하는지 확인한다. 이 요구사항의 일부만을 단순히 충족하는 것은 OpenChain 인증 Program을 보증하기에 충분하지 않을 수 있다. 
