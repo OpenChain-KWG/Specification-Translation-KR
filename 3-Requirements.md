@@ -1,6 +1,6 @@
 # 요구사항
 
-## G1: FOSS 책임을 이해하라.
+## G1: 당신의 FOSS 책임을 이해하라.
 
 ### 1.1 문서로 만들어진 FOSS 정책이 존재하고, 이를 통해 Supplied Software 배포 시에 필요한 FOSS License Compliance를 관리한다. 이 정책은 최소 내부에서 접근할 수 있는 공간에 존재한다. 
 
