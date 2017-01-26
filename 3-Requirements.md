@@ -125,21 +125,20 @@ FOSS 기여(Contribution) 정책은 조직의 전체 FOSS 정책의 일부로 �
 
 
 ### 5.2 FOSS 기여 정책이 기여를 허용하는 경우, 기여가 FOSS 기여 정책을 준수하는지 확인하기 위한 Process가 존재한다. 여기에는 다음과 같은 고려사항이 포함될 수 있지만, 이에 국한되지는 않는다. : 
-- 
- legal approval for license considerations
- business rationale or approval
- technical review of code to be contributed
- community engagement and interaction, including a project’s Code of Conduct or
-equivalent
- adherence to project-specific contribution requirements
-Verification Artifact(s):
- 5.2.1 Provided the FOSS contribution policy permits contributions, a documented procedure
-exists that describes the FOSS contribution process.
-Rationale:
-Ensure an organization has a documented process for how the organization publicly contributes
-FOSS. A policy may exist such that contributions are not permitted at all. In that specific
-situation it is understood that no process may exist and this requirement would nevertheless be
-met. 
+- License 고려에 대한 법적 승인
+- 사업상의 근거 또는 승인
+- 기여할 Code의 기술적 검토
+- Community 참여 및 소통 (Project의 행동 강령 혹은 이와 동등한 내용 포함)
+- Project 별 기여 요구사항 준수
+
+
+#### 확인 산출물 (Verification Artifact(s)):
+- 5.2.2 FOSS 기여(Contribution) 정책이 기여를 허용한다면, FOSS 기여(Contribution) Process를 설명하는 문서화된 절차가 존재한다.
+
+#### 설명: 
+조직이 공개적으로 FOSS에 기여하는 방법에 대한 문서화된 Process가 있는지 확인한다. 
+기여(Contribution)을 전혀 허용하지 않는 정책이 있을 수도 있다. 이러한 특정 상황에서는 Process가 존재하지 않을 수 있으며, 그럼에도 이 요구사항은 충족되는 것이다. 
+
 
 
 
