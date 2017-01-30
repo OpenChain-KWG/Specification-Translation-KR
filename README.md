@@ -5,7 +5,7 @@
 - https://wiki.linuxfoundation.org/_media/openchain/openchainspec-1.0.pdf
 
 ### License
-- Korean Translation by Haksung Jang (hakssung@gmail.com) is licensed under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+- Korean Translation by Haksung Jang (hakssung@gmail.com) is licensed under CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 ### Contents
 1. 소개
