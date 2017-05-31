@@ -132,7 +132,7 @@ FOSS에 공개적으로 Contribution 하는 것과 관련한 정책 개발을 �
 FOSS Contribution 정책은 조직의 전체 FOSS 정책의 일부로 만들 수도 있고, 자체적인 별도의 정책으로 만들 수도 있다. Contribution이 전혀 허용되지 않는 상황이라면, 이를 명확히 하는 정책이 있어야 한다. 
 
 
-### 5.2 FOSS Contribution 정책이 Contributiondㅡㄹ 허용하는 경우, Contribution이 FOSS Contribution 정책을 준수하는지 확인하기 위한 Process가 존재한다. 여기에는 다음과 같은 고려사항이 포함될 수 있지만, 이에 국한되지는 않는다. : 
+### 5.2 FOSS Contribution 정책이 Contributiond을 허용하는 경우, Contribution이 FOSS Contribution 정책을 준수하는지 확인하기 위한 Process가 존재한다. 여기에는 다음과 같은 고려사항이 포함될 수 있지만, 이에 국한되지는 않는다. : 
 - License 고려에 대한 법적 승인
 - 사업상의 근거 또는 승인
 - Contribution 할 Code의 기술적 검토
@@ -141,7 +141,7 @@ FOSS Contribution 정책은 조직의 전체 FOSS 정책의 일부로 만들 수
 
 
 #### Verification Artifact(s) (결과물 확인):
-- 5.2.2 FOSS Contribution 정책이 Contribution을 허용한다면, FOSS Contribution Process를 설명하는 문서로 만들어진 절차가 존재한다.
+- 5.2.1 FOSS Contribution 정책이 Contribution을 허용한다면, FOSS Contribution Process를 설명하는 문서로 만들어진 절차가 존재한다.
 
 #### Rationale (방법): 
 조직이 공개적으로 FOSS에 Contribution하는 방법에 대한 문서로 만들어진 Process가 있는지 확인한다. 
