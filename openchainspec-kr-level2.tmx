@@ -64,8 +64,8 @@
       <tuv xml:lang="EN-US">
         <seg>2.1<ph x="0">&lt;t0/&gt;</ph>.2<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>A<ph x="3">&lt;t3/&gt;</ph>n internal<ph x="4">&lt;t4/&gt;</ph> document<ph x="5">&lt;t5/&gt;</ph>ed<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>procedure <ph x="8">&lt;t8/&gt;</ph>exists that assigns responsibility for receiving FOSS compliance inquiries<ph x="9">&lt;t9/&gt;</ph>.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T015036Z" creationid="Jang" creationdate="20170722T014212Z">
-        <seg>2.1.2 FOSS Compliance 문의의 접수 책임을 할당한 내부 문서화된 절차가 존재한다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T151503Z" creationid="Jang" creationdate="20170722T014212Z">
+        <seg>2.1.2 FOSS Compliance 문의의 접수 책임을 할당한 문서화된 내부 절차가 존재한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,32 +96,32 @@
       <tuv xml:lang="EN-US">
         <seg>2.2.4<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>A <ph x="2">&lt;t2/&gt;</ph>document<ph x="3">&lt;t3/&gt;</ph>ed<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>procedure <ph x="6">&lt;t6/&gt;</ph>exists <ph x="7">&lt;t7/&gt;</ph>for handling <ph x="8">&lt;t8/&gt;</ph>the <ph x="9">&lt;t9/&gt;</ph>review and remediation of non-compliant cases<ph x="10">&lt;t10/&gt;</ph>.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T015624Z" creationid="Jang" creationdate="20170722T015624Z">
-        <seg>2.2.4 미준수 사례의 검토 및 개선을 위한 문서화된 절차가 존재한다..</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T151556Z" creationid="Jang" creationdate="20170722T015624Z">
+        <seg>2.2.4 미준수 사례의 검토 및 시정을 규정하는 문서화된 절차가 존재한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>3.<ph x="0">&lt;t0/&gt;</ph>1        <ph x="1">&lt;t1/&gt;</ph>A process exists for creating and managing a FOSS component bill of materials which includes each component (and its Identified License<ph x="2">&lt;t2/&gt;</ph>s<ph x="3">&lt;t3/&gt;</ph>) in a Supplied Software release<ph x="4">&lt;t4/&gt;</ph>.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T143127Z" creationid="Jang" creationdate="20170722T020103Z">
-        <seg>3.1 공급대상 소프트웨어 릴리즈내의 각 Component (및 그 식별된 라이선스)를 포함하는 FOSS Component BOM을 작성하고 관리하는 프로세스가 존재한다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152738Z" creationid="Jang" creationdate="20170722T020103Z">
+        <seg>3.1 공급대상 소프트웨어 배포판내의 각 Component (및 그 식별된 라이선스)를 포함하는 FOSS Component 구성목록 (bill of material, BOM)을 작성하고 관리하는 프로세스가 존재한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>3<ph x="0">&lt;t0/&gt;</ph>.2<ph x="1">&lt;t1/&gt;</ph>.1<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>A <ph x="4">&lt;t4/&gt;</ph>procedure<ph x="5">&lt;t5/&gt;</ph> has been implemented that <ph x="6">&lt;t6/&gt;</ph>handles <ph x="7">&lt;t7/&gt;</ph>the <ph x="8">&lt;t8/&gt;</ph>common<ph x="9">&lt;t9/&gt;</ph> <ph x="10">&lt;t10/&gt;</ph>FOSS <ph x="11">&lt;t11/&gt;</ph>license<ph x="12">&lt;t12/&gt;</ph> <ph x="13">&lt;t13/&gt;</ph>use cases <ph x="14">&lt;t14/&gt;</ph>for <ph x="15">&lt;t15/&gt;</ph>the<ph x="16">&lt;t16/&gt;</ph> FOSS components <ph x="17">&lt;t17/&gt;</ph>of each<ph x="18">&lt;t18/&gt;</ph> Supplied Software <ph x="19">&lt;t19/&gt;</ph>release<ph x="20">&lt;t20/&gt;</ph>.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T143222Z" creationid="Jang" creationdate="20170722T022734Z">
-        <seg>3.2.1 각 공급대상 소프트웨어 릴리즈의 FOSS Component에 대한 일반적인 FOSS 라이선스 사용 사례를 다루는 절차가 구현되었다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T151620Z" creationid="Jang" creationdate="20170722T022734Z">
+        <seg>3.2.1 각 공급대상 소프트웨어 배포판의 FOSS Component에 대한 일반적인 FOSS 라이선스 사용 사례를 다루는 절차가 구현되었다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>4.1         <ph x="0">&lt;t0/&gt;</ph>Prepare the set of artifacts which represent the output of the FOSS <ph x="1">&lt;t1/&gt;</ph>management<ph x="2">&lt;t2/&gt;</ph> program for each Supplied Software release.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T143231Z" creationid="Jang" creationdate="20170722T023612Z">
-        <seg>4.1 각 공급 대상 소프트웨어 릴리즈에 대해 FOSS 관리 프로그램의 산출물을 나타내는 일련의 결과물 세트를 준비한다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152323Z" creationid="Jang" creationdate="20170722T023612Z">
+        <seg>4.1 각 공급 대상 소프트웨어 배포판에 대해 FOSS 관리 프로그램의 산출물을 나타내는 일련의 결과물 집합을 준비한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -144,8 +144,8 @@
       <tuv xml:lang="EN-US">
         <seg>5<ph x="0">&lt;t0/&gt;</ph>.2<ph x="1">&lt;t1/&gt;</ph>.1<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>P<ph x="4">&lt;t4/&gt;</ph>rovided the FOSS c<ph x="5">&lt;t5/&gt;</ph>o<ph x="6">&lt;t6/&gt;</ph>ntribution p<ph x="7">&lt;t7/&gt;</ph>olicy permits contributions, a document<ph x="8">&lt;t8/&gt;</ph>ed<ph x="9">&lt;t9/&gt;</ph> procedure exists that <ph x="10">&lt;t10/&gt;</ph>governs<ph x="11">&lt;t11/&gt;</ph> <ph x="12">&lt;t12/&gt;</ph>FOSS c<ph x="13">&lt;t13/&gt;</ph>ontribution<ph x="14">&lt;t14/&gt;</ph>s<ph x="15">&lt;t15/&gt;</ph>.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T031237Z" creationid="Jang" creationdate="20170722T031237Z">
-        <seg>5.2.1 FOSS 기여 정책이 이러한 기여 활동을 허용하는 경우, FOSS 기여 절차를 관리하는 문서화된 절차가 존재한다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152112Z" creationid="Jang" creationdate="20170722T031237Z">
+        <seg>5.2.1 FOSS 기여 정책이 이러한 기여 활동을 허용하는 경우, FOSS 기여 절차를 규정하는 문서화된 절차가 존재한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv xml:lang="EN-US">
         <seg>6.2.1 <ph x="0">&lt;t0/&gt;</ph>The organization affirms that a <ph x="1">&lt;t1/&gt;</ph>FOSS <ph x="2">&lt;t2/&gt;</ph>management <ph x="3">&lt;t3/&gt;</ph>program exists that meets all the requirements of this OpenChain Spe<ph x="4">&lt;t4/&gt;</ph>cification version 1.1<ph x="5">&lt;t5/&gt;</ph> within the past 18 months<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>of achieving conformance<ph x="8">&lt;t8/&gt;</ph> <ph x="9">&lt;t9/&gt;</ph>validation<ph x="10">&lt;t10/&gt;</ph>.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T033250Z" creationid="Jang" creationdate="20170722T033250Z">
-        <seg>6.2.1 조직은 준수 확인을 달성한지 지난 18개월 이내에 이 OpenChain 설명서 1.1 버전의 모든 요구사항을 충족하는 FOSS 관리 프로그램이 존재함을 확약한다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152240Z" creationid="Jang" creationdate="20170722T033250Z">
+        <seg>6.2.1 조직은 준수 확인을 받은 후 18개월 동안은 이 OpenChain 설명서 1.1 버전의 모든 요구사항을 충족하는 FOSS 관리 프로그램이 존재함을 확약한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,8 +224,8 @@
       <tuv xml:lang="EN-US">
         <seg><ph x="6">&lt;t6/&gt;</ph>C<ph x="7">&lt;t7/&gt;</ph>onformance <ph x="8">&lt;t8/&gt;</ph>validation<ph x="9">&lt;t9/&gt;</ph> requirements <ph x="10">&lt;t10/&gt;</ph>can be <ph x="11">&lt;t11/&gt;</ph>found on the OpenChain project’s website.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T033121Z" creationid="Jang" creationdate="20170722T033121Z">
-        <seg>준수 확인 요구사항은 OpenChain 프로젝트의 website에서 찾을 수 있다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152207Z" creationid="Jang" creationdate="20170722T033121Z">
+        <seg>준수 확인 요건은 OpenChain 프로젝트의 웹사이트에서 찾을 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +248,8 @@
       <tuv xml:lang="EN-US">
         <seg>A bill of materials is needed to support the systematic review of each component’s license terms to understand the obligations and restrictions as it applies to the distribution of the Supplied Software.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T143158Z" creationid="Jang" creationdate="20170722T020742Z">
-        <seg>공급대상 소프트웨어의 배포에 적용되는 의무 와 제한 사항을 이해하기 위해 각 Component의 라이선스 조항을 체계적으로 검토하는 것을 지원하려면 BOM이 필요하다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T151857Z" creationid="Jang" creationdate="20170722T020742Z">
+        <seg>공급대상 소프트웨어의 배포에 적용되는 의무 와 제한 사항을 이해하기 위해 각 Component의 라이선스 조항의 체계적  검토를  지원하기 위해  BOM이 필요하다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,8 +296,8 @@
       <tuv xml:lang="EN-US">
         <seg>A documented procedure exists <ph x="0">&lt;t0/&gt;</ph>for <ph x="1">&lt;t1/&gt;</ph>identifying<ph x="2">&lt;t2/&gt;</ph>, <ph x="3">&lt;t3/&gt;</ph>tracking <ph x="4">&lt;t4/&gt;</ph>and archiving <ph x="5">&lt;t5/&gt;</ph>information about the collection of FOSS components from which a Supplied Software release is comprised.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T143136Z" creationid="Jang" creationdate="20170722T020317Z">
-        <seg>공급대상 소프트웨어 릴리즈에 포함된 FOSS Component들의 집합에 대한 정보를 식별, 추적 및 보관하기 위한 문서화된 절차가 존재한다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T151717Z" creationid="Jang" creationdate="20170722T020317Z">
+        <seg>공급대상 소프트웨어 배포판을 구성하는 FOSS Component들의 집합에 대한 정보를 식별, 추적 및 보관하기 위한 문서화된 절차가 존재한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,8 +472,8 @@
       <tuv xml:lang="EN-US">
         <seg>Although no requirements are provided here on what should be included in the policy, other requirements in other sections may.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T130921Z" creationid="Jang" creationdate="20170722T064944Z">
-        <seg>이 절에서는 정책에 포함되어야 할 요구사항이 규정되지 않지만, 다른 절에서 다른 요구사항이 규정될 수 있다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T151414Z" creationid="Jang" creationdate="20170722T064944Z">
+        <seg>이 절에서는 정책에 포함되어야 할 요구사항이 규정되지 않지만, 다른 절에서 정책에 요구사항을 부과할  수도 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +568,8 @@
       <tuv xml:lang="EN-US">
         <seg>Because OpenChain functions as an open source project translations are <ph x="2">&lt;t2/&gt;</ph>driven by those willing to contribute their time <ph x="3">&lt;t3/&gt;</ph>and expertise <ph x="4">&lt;t4/&gt;</ph>to perform translations under the terms of the CC-BY 4.0 license and the project’s translation policy.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T132715Z" creationid="Jang" creationdate="20170722T035034Z">
-        <seg>OpenChain은 오픈소스 프로젝트로서의 기능을 수행하기 때문에 번역은 CC-BY 4.0 라이선스 및 프로젝트의 번역 정책에 따라 번역 작업을 수행하기 위해 시간과 전문 지식을 기꺼이 기여한 사람들에 의해 이루어진다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152252Z" creationid="Jang" creationdate="20170722T035034Z">
+        <seg>OpenChain은 오픈소스 프로젝트로서의 기능을 수행하기 때문에 번역은 CC-BY 4.0 라이선스 및 프로젝트의 번역 정책에 따라 번역 작업을 수행하기 위해 시간과 전문 지식을 기꺼이 기부한 사람들에 의해 이루어진다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -608,8 +608,8 @@
       <tuv xml:lang="EN-US">
         <seg>Copies of the Compliance Artifacts of the Supplied Software <ph x="0">&lt;t0/&gt;</ph>release<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>are archived and easily retrievable, and the archive is planned to exist for at least as long as the Supplied Software is offered or as required by the Identified Licenses (whichever is longer).</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T143247Z" creationid="Jang" creationdate="20170722T025732Z">
-        <seg>공급 대상 소프트웨어 릴리즈의 Compliance 결과물 사본이 보관되어 쉽게 검색할 수 있으며, 보관된 자료는 적어도 공급대상 소프트웨어가 제공되는 한 혹은 식별된 라이선스에서 요구하는 기한 동안 제공된다. (둘 중 더 긴 것을 따름).</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T151941Z" creationid="Jang" creationdate="20170722T025732Z">
+        <seg>공급 대상 소프트웨어 배포판의 Compliance 결과물 사본이 보관되어 쉽게 다시 검색할 수 있으며, 보관된 자료는 적어도 공급대상 소프트웨어가 제공되는 한 혹은 식별된 라이선스에서 요구하는 기한 동안 제공된다. (둘 중 더 긴 것을 따름).</seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +656,8 @@
       <tuv xml:lang="EN-US">
         <seg>Distributed Compliance Artifacts <ph x="0">&lt;t0/&gt;</ph>- the set of artifacts that an Identified License requires be provided with Supplied Software.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T133621Z" creationid="Jang" creationdate="20170722T063828Z">
-        <seg>배포할 Compliance 결과물 - 식별된 라이선스가 공급대상 소프트웨어와 함께 제공하기를 요구하는 결과물 세트.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152346Z" creationid="Jang" creationdate="20170722T063828Z">
+        <seg>배포할 Compliance 결과물 - 식별된 라이선스가 공급대상 소프트웨어와 함께 제공하기를 요구하는 결과물의 집합.</seg>
       </tuv>
     </tu>
     <tu>
@@ -712,8 +712,8 @@
       <tuv xml:lang="EN-US">
         <seg>Ensure steps were taken to <ph x="0">&lt;t0/&gt;</ph>create,<ph x="1">&lt;t1/&gt;</ph> record and make <ph x="2">&lt;t2/&gt;</ph>Software Staff <ph x="3">&lt;t3/&gt;</ph>aware <ph x="4">&lt;t4/&gt;</ph>of <ph x="5">&lt;t5/&gt;</ph>the existence of a FOSS <ph x="6">&lt;t6/&gt;</ph>policy.<ph x="7">&lt;t7/&gt;</ph> Although no requirements are provide<ph x="8">&lt;t8/&gt;</ph>d<ph x="9">&lt;t9/&gt;</ph> here on what should be included in the policy, <ph x="10">&lt;t10/&gt;</ph>other sections may impose requirements on the policy<ph x="11">&lt;t11/&gt;</ph>.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T145156Z" creationid="Jang" creationdate="20170722T002231Z">
-        <seg>FOSS 정책을 수립 및 기록하고 이를 Software 공급담당자가 인식하게 하는 조치가 취해지도록 보장하기 위함. 이 절에서는 정책에 포함되어야 할 요구사항이 규정되지 않지만, 다른 절에서 다른 요구사항이 규정될 수 있다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T151443Z" creationid="Jang" creationdate="20170722T002231Z">
+        <seg>FOSS 정책을 수립 및 기록하고 이를 Software 공급담당자가 인식하게 하는 조치가 취해지도록 보장하기 위함. 이 절에서는 정책에 포함되어야 할 요구사항이 규정되지 않지만, 다른 절에서 정책에 요구사항을 부과할  수도 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -744,8 +744,8 @@
       <tuv xml:lang="EN-US">
         <seg>Ensure the complete collection of Compliance Artifacts<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>accompany the Supplied Software as <ph x="2">&lt;t2/&gt;</ph>required by the Identified Licenses that govern the Supplied Software along with other reports created as part of the FOSS review process.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T143257Z" creationid="Jang" creationdate="20170722T030328Z">
-        <seg>공급대상 소프트웨어에 적용되는 식별된 라이선스에 따라 필요한 완전한 Compliance 결과물 세트가 FOSS 검토 프로세스의 일부로 작성된 기타 보고서와 함께 공급대상 소프트웨어에 동반되도록 보장하기 위함.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152011Z" creationid="Jang" creationdate="20170722T030328Z">
+        <seg>공급대상 소프트웨어에 적용되는 식별된 라이선스에 따라 요구되는 Compliance 결과물의 집합이 FOSS 검토 프로세스의 일부로 작성된 기타 보고서와 함께 공급대상 소프트웨어에 동반되도록 보장하기 위함.</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,8 +832,8 @@
       <tuv xml:lang="EN-US">
         <seg>FOSS component records exist for each Supplied Software release which demonstrates the documented procedure was properly followed.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T143145Z" creationid="Jang" creationdate="20170722T020530Z">
-        <seg>각 공급 대상 소프트웨어 릴리즈에 대해 문서화된 절차가 올바르게 수행되었음을 증명하는 FOSS Component 기록이 존재한다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T151615Z" creationid="Jang" creationdate="20170722T020530Z">
+        <seg>각 공급 대상 소프트웨어 배포판에 대해 문서화된 절차가 올바르게 수행되었음을 증명하는 FOSS Component 기록이 존재한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1032,16 +1032,16 @@
       <tuv xml:lang="EN-US">
         <seg>Identified Licenses <ph x="0">&lt;t0/&gt;</ph>- a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T063835Z" creationid="Jang" creationdate="20170722T063835Z">
-        <seg>식별된 라이선스 <ph x="0">&lt;t0/&gt;</ph>-해당 라이선스를 식별하기 위한 적절한 방법을 수행한 결과로 식별된 FOSS 라이선스 세트.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152403Z" creationid="Jang" creationdate="20170722T063835Z">
+        <seg>식별된 라이선스 <ph x="0">&lt;t0/&gt;</ph>-해당 라이선스를 식별하기 위한 적절한 방법을 수행한 결과로 식별된 FOSS 라이선스의 집합.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Identified Licenses<ph x="0">&lt;t0/&gt;</ph> - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T001430Z" creationid="Jang" creationdate="20170722T001430Z">
-        <seg>식별된 라이선스 -해당 라이선스를 식별하기 위한 적절한 방법을 수행한 결과로 식별된 FOSS 라이선스 세트.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152424Z" creationid="Jang" creationdate="20170722T001430Z">
+        <seg>식별된 라이선스 -해당 라이선스를 식별하기 위한 적절한 방법을 수행한 결과로 식별된 FOSS 라이선스의 집합.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,8 +1088,8 @@
       <tuv xml:lang="EN-US">
         <seg>If all the requirements have been met for a given program, it would be considered OpenChain <ph x="0">&lt;t0/&gt;</ph>Conforming<ph x="1">&lt;t1/&gt;</ph> in accordance with version <ph x="2">&lt;t2/&gt;</ph>1.1 <ph x="3">&lt;t3/&gt;</ph>of the specification.<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>Verification Artifacts are not intended to be public, but could be provided under NDA or upon private request from the OpenChain organization to validate conformance.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T000801Z" creationid="Jang" creationdate="20170722T000801Z">
-        <seg>어떤 프로그램이 모든 요구사항을 충족한다면, 그 프로그램은 이 설명서 version 1.1에 따라 OpenChain 준수 프로그램으로 인정될 것이다. 검증 결과물은 공개 대상은 아니지만, 적합성 검증을 위해 NDA 또는 OpenChain 조직의 비공개 요청에 따라 제공되야할 수 있다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T151317Z" creationid="Jang" creationdate="20170722T000801Z">
+        <seg>어떤 프로그램이 모든 요구사항을 충족한다면, 그 프로그램은 이 설명서 버전 1.1에 따라 OpenChain 준수 프로그램으로 인정될 것이다. 검증 결과물은 공개할 것으로 의도한 것은 아니지만, 준수를 인증하기 위해 NDA(비공개합의)하에서 또는 OpenChain 조직의 비공개 요청에 따라 제공될  수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1104,24 +1104,24 @@
       <tuv xml:lang="EN-US">
         <seg>If an organization permits contributions to FOSS projects then a process must <ph x="0">&lt;t0/&gt;</ph>exist<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>that<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>implements the<ph x="5">&lt;t5/&gt;</ph> FOSS contribution policy outlined in Section 5.1<ph x="6">&lt;t6/&gt;</ph>.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T031110Z" creationid="Jang" creationdate="20170722T030832Z">
-        <seg>FOSS 프로젝트에 기여하는 것을 허용한 조직이라면 5.1절에 설명한 FOSS 기여 정책을 구현하는 프로세스가 존재해야 한다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152037Z" creationid="Jang" creationdate="20170722T030832Z">
+        <seg>FOSS 프로젝트에 기여하는 것을 허용한 조직이라면 5.1절에 설명한 FOSS 기여 정책을 구현하는 프로세스를 가져야 한다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>In accordance with the Vision and Mission, this specification defines a set of requirements that if met, would significantly increases the probability that an open source compliance program had achieved a sufficient level of quality, consistency and completeness; although a program that satisfies all the specification requirements does <ph x="0">&lt;t0/&gt;</ph>not guarantee full compliance.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T072343Z" creationid="Jang" creationdate="20170722T000229Z">
-        <seg>Vision과 Mission에 따라 이 설명서 일련의 요구사항을 정의하고, 이 요구사항이 충족하는 오픈소스 프로그램이라면 충분한 수준의 품질, 일관성 및 완전성을 달성했을 가능성을 높일 것이다. 다만, 설명서의 모든 요구사항을 만족하는 프로그램이라도 완전한 Compliance가 보장되는 것은 아니다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T150818Z" creationid="Jang" creationdate="20170722T000229Z">
+        <seg>비전과 사명에 따라 이 설명서 일련의 요구사항을 정의하고, 이 요구사항이 충족하는 오픈소스 프로그램이라면 충분한 수준의 품질, 일관성 및 완전성을 달성했을 가능성을 높일 것이다. 다만, 설명서의 모든 요구사항을 만족하는 프로그램이라도 완전한 Compliance가 보장되는 것은 아니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>In accordance with the Vision and Mission, this specification defines a set of requirements that if met, would significantly increases the probability that an open source compliance program had achieved a sufficient level of quality, consistency and completeness; although a program that satisfies all the specification requirements does not guarantee full compliance.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T130725Z" creationid="Jang" creationdate="20170722T063814Z">
-        <seg>Vision과 Mission에 따라 이 설명서 일련의 요구사항을 정의하고, 이 요구사항을 충족하는 오픈소스 프로그램이라면 충분한 수준의 품질, 일관성 및 완전성을 달성했을 가능성을 높일 것이다. 다만, 설명서의 모든 요구사항을 만족하는 프로그램이라도 완전한 Compliance가 보장되는 것은 아니다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T150828Z" creationid="Jang" creationdate="20170722T063814Z">
+        <seg>비전과 사명에 따라 이 설명서 일련의 요구사항을 정의하고, 이 요구사항을 충족하는 오픈소스 프로그램이라면 충분한 수준의 품질, 일관성 및 완전성을 달성했을 가능성을 높일 것이다. 다만, 설명서의 모든 요구사항을 만족하는 프로그램이라도 완전한 Compliance가 보장되는 것은 아니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1144,8 +1144,8 @@
       <tuv xml:lang="EN-US">
         <seg>In that situation it is understood that no <ph x="5">&lt;t5/&gt;</ph>procedure<ph x="6">&lt;t6/&gt;</ph> may exist and this requirement would <ph x="7">&lt;t7/&gt;</ph>nevertheless <ph x="8">&lt;t8/&gt;</ph>be met.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T144729Z" creationid="Jang" creationdate="20170722T032238Z">
-        <seg>어떤 절차도 존재하는 상황도 이해될 수 있으며, 그럼에도 이 요구사항은 충족되는 것이다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152143Z" creationid="Jang" creationdate="20170722T032238Z">
+        <seg>기여가 일체 허용되지 않는 정책도 존재할 수 있음. 그 경우 어떤 절차도 존재하지 않지만 그럼에도 이 요구사항은 충족되는 것으로 이해됨.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1560,8 +1560,8 @@
       <tuv xml:lang="EN-US">
         <seg>The details of the policy<ph x="5">&lt;t5/&gt;</ph> and available <ph x="6">&lt;t6/&gt;</ph>translations can be found on the OpenChain project <ph x="7">&lt;t7/&gt;</ph>s<ph x="8">&lt;t8/&gt;</ph>pecification webpage<ph x="9">&lt;t9/&gt;</ph>.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T132719Z" creationid="Jang" creationdate="20170722T035157Z">
-        <seg>정책 및 사용 가능한 번역에 대한 자세한 내용은 OpenChain 프로젝트 설명서 페이지에서 확인할 수 있다.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152305Z" creationid="Jang" creationdate="20170722T035157Z">
+        <seg>정책 및 사용 가능한 번역에 대한 자세한 내용은 OpenChain 프로젝트 설명서 웹 페이지(https://wiki.linuxfoundation.org/openchain/spec-translations)에서 확인할 수 있다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1664,8 +1664,8 @@
       <tuv xml:lang="EN-US">
         <seg>They include (but are not limited to) the following: copyright notices, copies of licenses, modification notifications, attribution notices, source code, written offers and so forth.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T063830Z" creationid="Jang" creationdate="20170722T063830Z">
-        <seg>여기에는 다음 사항이 포함된다 (이에 국한되지 않음). : 저작권 고지, 라이선스 사본, 수정 내용 고지, 저작자 고지, 소스 코드, 서면 약정서 등</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T151913Z" creationid="Jang" creationdate="20170722T063830Z">
+        <seg>여기에는 다음 사항이 포함된다 (이에 국한되지 않음). : 저작권 고지, 라이선스 사본, 수정 내용 고지, 저작자 고지, 소스 코드, 서면 청약 등</seg>
       </tuv>
     </tu>
     <tu>
@@ -1728,8 +1728,8 @@
       <tuv xml:lang="EN-US">
         <seg>This set is referred to as the Compliance Artifacts which may include (but <ph x="3">&lt;t3/&gt;</ph>are<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>not limited to) <ph x="6">&lt;t6/&gt;</ph>one or more of <ph x="7">&lt;t7/&gt;</ph>the following<ph x="8">&lt;t8/&gt;</ph>: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, SPDX documents and so forth.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170722T025122Z" creationid="Jang" creationdate="20170722T023645Z">
-        <seg>이 세트를 Compliance 결과물이라고 하고, 다음 사항이 포함된다 (이에 국한되지 않음). : 소스 코드, 저작자 고지, 저작권 고지, 라이선스 사본, 수정 내용 고지, 서면 약정서, SPDX 문서 등.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T152337Z" creationid="Jang" creationdate="20170722T023645Z">
+        <seg>이 집합을 Compliance 결과물이라고 하고, 다음 사항이 포함된다 (이에 국한되지 않음). : 소스 코드, 저작자 고지, 저작권 고지, 라이선스 사본, 수정 내용 고지, 서면 청약, SPDX 문서 등.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1768,8 +1768,8 @@
       <tuv xml:lang="EN-US">
         <seg>To ensure a <ph x="0">&lt;t0/&gt;</ph>process<ph x="1">&lt;t1/&gt;</ph> exists for creating and managing a FOSS component bill of materials used to construct the Supplied Software.</seg>
       </tuv>
-      <tuv xml:lang="KO" changeid="Jang" changedate="20170724T143151Z" creationid="Jang" creationdate="20170722T020703Z">
-        <seg>공급대상 소프트웨어를 제작하기 위해 사용된 FOSS Component BOM을 작성하고 관리하기 위한 프로세스가 존재하도록 보장하기 위함.</seg>
+      <tuv xml:lang="KO" changeid="Jang" changedate="20170731T151743Z" creationid="Jang" creationdate="20170722T020703Z">
+        <seg>공급대상 소프트웨어를 제작하기 위해 사용된 FOSS Component 구성목록(BOM)을 작성하고 관리하기 위한 프로세스가 존재하도록 보장하기 위함.</seg>
       </tuv>
     </tu>
     <tu>
