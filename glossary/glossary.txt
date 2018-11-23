@@ -6,7 +6,7 @@ Copyright	저작권
 License	라이선스
 supply chain	공급망
 open source	오픈소스
-Conformance	준수
+Conformance	적합성
 Introduction	소개
 Definition	정의
 artifacts	결과물
@@ -15,11 +15,10 @@ Disclaimer	면책
 policy	정책
 process	프로세스
 flexibility	유연성
-Verification Artifacts	검증 결과물
 OpenChain Conforming	OpenChain 준수
 program	프로그램
 Identified License	식별된 라이선스
-Supplied Software	공급 대상 Software
+Supplied Software	공급 대상 소프트웨어
 Distributed Compliance Artifacts	배포할 Compliance 결과물
 copyright notice	저작권 고지
 modification notifications	수정 내용 고지
@@ -42,7 +41,7 @@ source form	소스 형태
 source code	소스 코드
 build	빌드
 script	스크립트
-written offer	서면 약정서
+written offer	서면 청약
 Contribution	기여
 Community	커뮤니티
 Specification	설명서
@@ -58,10 +57,12 @@ Engineer	엔지니어
 Slide	슬라이드
 Online	온라인
 email	이메일
-Contents	목차	Contents
+Contents	목차
 downstream	하위
 upstream	상위
 standard	표준적
 Vision	비전
 Mission	사명
 release	배포
+Goal	목표
+Engineer	엔지니어
