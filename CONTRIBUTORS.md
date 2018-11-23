@@ -1,4 +1,13 @@
-Maintainer: Haksung Jang, LG Electronics, hakssung@gmail.com
+# Maintainer
 
-Contributor(s):
-Jongbaek Park, BKL, jb.park@bkl.co.kr
+| Name | Company | Email |
+|--|--|--|
+| Haksung Jang | LG Electronics | hakssung@gmail.com |
+
+
+# Contributor(s):
+
+| Name | Company | Email |
+|--|--|--|
+| Jongbaek Park | BKL | jb.park@bkl.co.kr |
+

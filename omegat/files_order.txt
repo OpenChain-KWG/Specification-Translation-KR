@@ -1,2 +1,3 @@
+openchainspec-1.2_temp.docx
 openchainspec-1.1.translationtemplate.docx
 openchainspec-1.0_disclaimer_rev1.docx
