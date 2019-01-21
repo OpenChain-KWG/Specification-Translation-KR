@@ -1,4 +1,4 @@
-Requirement	요구사항
+Requirement	요건
 Responsibility	책임
 Review	검토
 Approve	승인
@@ -6,7 +6,7 @@ Copyright	저작권
 License	라이선스
 supply chain	공급망
 open source	오픈소스
-Conformance	적합성
+Conformance	준수
 Introduction	소개
 Definition	정의
 artifacts	결과물
@@ -66,3 +66,6 @@ Mission	사명
 release	배포
 Goal	목표
 Engineer	엔지니어
+Component	Component
+accompany	수반하다
+validation	인증

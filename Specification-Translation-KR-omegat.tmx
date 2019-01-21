@@ -446,14 +446,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>A documented procedure that ensures the Compliance Artifacts are prepared and distributed with Supplied Software release as required by the Identified Licenses.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T145329Z" creationid="Jang" creationdate="20181123T145329Z">
-        <seg>식별된 라이선스에서 요구하는 대로 컴플라이언스 결과물이 준비되어서 공급 대상 소프트웨어와 함께 배포되도록 보장하는 문서화된 절차.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>A documented procedure&lt;t0/&gt; for handling the review and remediation of non-compliant cases.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20181123T140633Z" creationid="Jang" creationdate="20181123T140633Z">
@@ -486,14 +478,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>A documented procedure&lt;t0/&gt; that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, or other practical communication method).</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T131007Z" creationid="Jang" creationdate="20181123T131007Z">
-        <seg>모든 소프트웨어 공급담당자가 FOSS 정책의 존재를 인식하게 하는 문서화된 절차(예: 교육, 내부 wiki 혹은 기타 실질적인 의사소통 방법)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>A policy may exist such that contributions are not permitted at all.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170722T065139Z" creationid="Jang" creationdate="20170722T065139Z">
@@ -502,26 +486,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>A procedure that handles the common FOSS license use cases for the FOSS components of each Supplied Software release.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T154621Z" creationid="Jang" creationdate="20181123T142020Z">
-        <seg>각 공급대상 소프트웨어 배포판의 FOSS Component에 대한 일반적인 FOSS 라이선스 사용 사례를 다루는 서면화된 절차</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>A process exists for creating and managing a FOSS component bill of materials which includes each component (and its Identified Licenses) &lt;t0/&gt;from which the&lt;t1/&gt; Supplied Software &lt;t2/&gt;is comprised&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20190121T164303Z" creationid="Jang" creationdate="20190121T162357Z">
         <seg>공급대상 소프트웨어 내의 각 Component(및 그 식별된 라이선스)를 포함하는 FOSS Component 목록(BOM)을 작성하고 관리하는 프로세스가 존재한다.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A process exists for creating and managing a FOSS component bill of materials which includes each component (and its Identified Licenses) in a Supplied Software release.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T154239Z" creationid="Jang" creationdate="20181123T140821Z">
-        <seg>공급대상 소프트웨어 배포판 내의 각 Component(및 그 식별된 라이선스)를 포함하는 FOSS Component 목록(BOM)을 작성하고 관리하는 프로세스가 존재한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,14 +638,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Although no requirements are provided here on what should be included in the policy, other sections may impose requirements on the policy.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T153341Z" creationid="Jang" creationdate="20181123T131756Z">
-        <seg>이 절에서는 정책에 포함되어야 할 요건이 규정되지 않지만, 다른 절에서 정책에 요건을 부과할 수도 있다.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Although no requirements are provided here on what should be included in the policy, other sections may impose&lt;t1/&gt; requirements on the policy.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20190121T162226Z" creationid="Jang" creationdate="20190121T162226Z">
@@ -690,14 +650,6 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20190121T163026Z" creationid="Jang" creationdate="20190121T163026Z">
         <seg>이 OpenChain 1.2 버전의 모든 요건을 충족하는 FOSS 관리 프로그램의 존재 확약.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>An affirmation of the existence &lt;t0/&gt;of&lt;t1/&gt; &lt;t2/&gt;a FOSS man&lt;t3/&gt;agement program&lt;t4/&gt; that meets all the requirements of this Ope&lt;t5/&gt;nChain Specification version 1.2&lt;t6/&gt;.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T154110Z" creationid="Jang" creationdate="20181123T161008Z">
-        <seg>이 OpenChain 1.2 버전의 모든 요건을 충족하는 FOSS 관리 프로그램의 존재 확약</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,14 +734,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>At least 85% of the Software Staff are&lt;t0/&gt; &lt;t1/&gt;Current Trained, as per the definition above.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T133456Z" creationid="Jang" creationdate="20181123T133456Z">
-        <seg>소프트웨어 공급담당자의 85% 이상이 위의 정의에 따라  현재 교육 이수 상태</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>At least 85% of the Software Staff are&lt;t0/&gt; &lt;t1/&gt;Current&lt;t2/&gt;ly&lt;t3/&gt; Trained, as per the definition above.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20190121T162320Z" creationid="Jang" creationdate="20190121T162320Z">
@@ -838,14 +782,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Because OpenChain functions as an open source project translations are driven by those willing to contribute their time and expertise to perform translations under the terms of the CC-BY 4.0 license and the project’s translation policy.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T162716Z" creationid="Jang" creationdate="20181123T162716Z">
-        <seg>OpenChain은 오픈소스 프로젝트로서의 기능을 수행하기 때문에 번역은 CC-BY 4.0 라이선스 및 프로젝트의 번역 정책에 따라 번역을 수행하는데 시간과 전문 지식을 기꺼이 기여한 사람들에 의해 이루어집니다.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Commercially reasonable budget &lt;t0/&gt;has been&lt;t1/&gt; allocated&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170722T014418Z" creationid="Jang" creationdate="20170722T014418Z">
@@ -873,14 +809,6 @@
         <seg>Conformance validation requirements can be found on the &lt;t0/&gt;OpenChain&lt;t1/&gt; project’s website.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20190121T163042Z" creationid="Jang" creationdate="20190121T163042Z">
-        <seg>준수 인증 요건은 OpenChain 프로젝트의 웹 사이트에서 찾을 수 있다.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Conformance validation requirements can be found on the OpenChain project’s website.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T153755Z" creationid="Jang" creationdate="20181123T161456Z">
         <seg>준수 인증 요건은 OpenChain 프로젝트의 웹 사이트에서 찾을 수 있다.</seg>
       </tuv>
     </tu>
@@ -1070,22 +998,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ensure the Software Staff have recently attended FOSS training and that a core&lt;t0/&gt; set of relevant FOSS topics were&lt;t1/&gt; covered&lt;t2/&gt; in the training&lt;t3/&gt;.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T133918Z" creationid="Jang" creationdate="20181123T133918Z">
-        <seg>소프트웨어 공급관리자가 최근 FOSS 교육에 참석하고, 교육에서 일련의 관련 핵심 FOSS 주제를 다루도록 보장하기 위함.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ensure the complete collection of Compliance Artifacts accompany the Supplied Software as required by the Identified Licenses that govern the Supplied Software along with other reports created as part of the FOSS review process.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T153534Z" creationid="Jang" creationdate="20181123T145503Z">
-        <seg>공급대상 소프트웨어에 적용되는 식별된 라이선스에 따라 요구되는 컴플라이언스 결과물의 집합이 FOSS 검토 프로세스의 일부로 작성된 기타 보고서와 함께 공급대상 소프트웨어에 수반하도록 보장하기 위함.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Ensure the complete collection of Compliance Artifacts&lt;t0/&gt; &lt;t1/&gt;accompany the Supplied Software as &lt;t2/&gt;required by the Identified Licenses that govern the Supplied Software along with other reports created as part of the FOSS review process.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170801T141055Z" creationid="Jang" creationdate="20170722T030328Z">
@@ -1222,14 +1134,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>FOSS licensing concepts (including the concepts of permissive and copyleft licenses);</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T132154Z" creationid="Jang" creationdate="20181123T132154Z">
-        <seg>FOSS 라이선싱 개념 (Permissive 및 Copyleft 라이선스 개념 포함);</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>FOSS licensing concepts (including the concepts of permissive and copyleft&lt;t0/&gt; &lt;t1/&gt;licenses);</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170731T154136Z" creationid="Jang" creationdate="20170722T064950Z">
@@ -1265,14 +1169,6 @@
         <seg>FOSS training materials covering the above topics (e.g., slide decks, online course, or other training materials).</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20190121T162301Z" creationid="Jang" creationdate="20190121T162301Z">
-        <seg>위의 주제를 다루는 FOSS 교육 자료(예: 슬라이드 자료, 온라인 과정 혹은 이외 교육 자료)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>FOSS training materials covering the above topics exists (e.g., slide decks, online course, or other training materials).</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T133043Z" creationid="Jang" creationdate="20181123T133043Z">
         <seg>위의 주제를 다루는 FOSS 교육 자료(예: 슬라이드 자료, 온라인 과정 혹은 이외 교육 자료)</seg>
       </tuv>
     </tu>
@@ -1486,14 +1382,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>G&lt;t0/&gt;oal&lt;t1/&gt; &lt;t2/&gt;6: Certify Adherence to OpenChain Requirements</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T153411Z" creationid="Jang" creationdate="20181123T150450Z">
-        <seg>목표 6: OpenChain 요건 준수 인증</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Goal 1: Know Your FOSS Responsibilities</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20181123T112636Z" creationid="Jang" creationdate="20181123T112045Z">
@@ -1654,14 +1542,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>If all the requirements have been met for a given program, it would be considered OpenChain Conforming in accordance with version 1.2 of the specification.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T153324Z" creationid="Jang" creationdate="20181123T114509Z">
-        <seg>만약 어떤 프로그램이 모든 요건을 충족한다면, 그 프로그램은 이 설명서 버전 1.2에 따라 OpenChain 준수 프로그램으로 인정될 것이다.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>If an organization permits contributions to FOSS projects then a process &lt;t0/&gt;exist&lt;t1/&gt; that implements the FOSS contribution policy outlined in Section 5.1.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20190121T164627Z" creationid="Jang" creationdate="20190121T162933Z">
@@ -1674,14 +1554,6 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170731T152037Z" creationid="Jang" creationdate="20170722T030832Z">
         <seg>FOSS 프로젝트에 기여하는 것을 허용한 조직이라면 5.1절에 설명한 FOSS 기여 정책을 구현하는 프로세스를 가져야 한다.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>If an organization permits contributions to FOSS projects then a process must exist that implements the FOSS contribution policy outlined in Section 5.1.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T145951Z" creationid="Jang" creationdate="20181123T145951Z">
-        <seg>FOSS 프로젝트에 기여하는 것을 허용하는 조직이라면 5.1절에 설명한 FOSS 기여 정책을 구현하는 프로세스가 있어야 한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1705,14 +1577,6 @@
         <seg>In order for an organization to be &lt;t0/&gt;OpenChain&lt;t1/&gt; certified, it must affirm that it has a FOSS management program that meets the criteria described in this &lt;t2/&gt;Ope&lt;t3/&gt;nChain&lt;t4/&gt; Specification version 1.2&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20190121T163012Z" creationid="Jang" creationdate="20190121T163012Z">
-        <seg>조직이 OpenChain 인증을 받으려면, OpenChain 설명서 1.2 버전의 기준을 충족하는 FOSS 관리 프로그램이 있음을 확약해야 한다.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In order for an organization to be OpenChain certified, it must affirm that it has a FOSS management program that meets the criteria described in this Ope&lt;t0/&gt;nChain Specification version 1.2&lt;t1/&gt;.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T150549Z" creationid="Jang" creationdate="20181123T150549Z">
         <seg>조직이 OpenChain 인증을 받으려면, OpenChain 설명서 1.2 버전의 기준을 충족하는 FOSS 관리 프로그램이 있음을 확약해야 한다.</seg>
       </tuv>
     </tu>
@@ -1762,14 +1626,6 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20181123T113033Z" creationid="Jang" creationdate="20181123T113033Z">
         <seg>번역본과 영문본 사이에 불일치가 있는 경우, 영문 문서가 우선합니다.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>In the situation where contributions are &lt;t0/&gt;limited or &lt;t1/&gt;not permitted at all, a policy should exist making that position clear.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T145802Z" creationid="Jang" creationdate="20181123T145802Z">
-        <seg>기여가 제한적이거나, 전혀 허용되지 않는 상황이라면, 이를 명확히 하는 정책이 있어야 한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1862,14 +1718,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Method of tracking the completion of the training for all Software Staff.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T154421Z" creationid="Jang" creationdate="20181123T133101Z">
-        <seg>모든 소프트웨어 공급담당자가 교육을 완료하였는지 추적하는 방법.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Mission&lt;t0/&gt;: &lt;t1/&gt;Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170801T140617Z" creationid="Jang" creationdate="20170722T000213Z">
@@ -1950,26 +1798,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>OpenChain Conforming&lt;t0/&gt; &lt;t1/&gt;Program&lt;t2/&gt;- a program that satisfies all the requirements of this specification.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T153333Z" creationid="Jang" creationdate="20181123T120347Z">
-        <seg>OpenChain 준수&lt;t0/&gt; &lt;t1/&gt;프로그램&lt;t2/&gt;-이 설명서의 모든 요건을 충족하는 프로그램.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>OpenChain Specification</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170721T164408Z" creationid="Jang" creationdate="20170721T164408Z">
         <seg>OpenChain 설명서</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>OpenChain Specification 1.2&lt;t0/&gt;(Temp)</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T164524Z" creationid="Jang" creationdate="20181123T164524Z">
-        <seg>OpenChain 설명서 1.2&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,14 +1842,6 @@
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170801T135912Z" creationid="Jang" creationdate="20170722T065109Z">
         <seg>해당 식별된 라이선스에서 요구하는 대로 공급대상 소프트웨어에 수반할 다음과 같은 배포할 Compliance 결과물(다음에 국한되지 않음)을 준비한다:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Prepare the set of artifacts which represent the output of the FOSS management program for each Supplied Software release.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T154701Z" creationid="Jang" creationdate="20181123T144952Z">
-        <seg>각 공급 대상 소프트웨어 배포판에 대해 FOSS 관리 프로그램의 결과물 세트를 작성하기 위한 절차가 존재한다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,14 +2038,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Software Staff must have completed FOSS training&lt;t0/&gt; within the last 24 months to be considered &lt;t1/&gt;current (“Currently Trained”).&lt;t2/&gt;).</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T155059Z" creationid="Jang" creationdate="20181123T132759Z">
-        <seg>소프트웨어 공급담당자는 현재 교육 이수 상태로 인정되기 위해서 지난 24개월 내 FOSS 교육을 이수하였어야 한다(‘현재 교육  이수 상태’).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Software Staff roles and responsibilities pertain&lt;t0/&gt;ing&lt;t1/&gt; to FOSS compliance specifically and the FOSS policy in general&lt;t2/&gt;;&lt;t3/&gt; and</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170724T143042Z" creationid="Jang" creationdate="20170722T002329Z">
@@ -2297,14 +2113,6 @@
         <seg>The 85% may not necessarily refer to the entire organization, but to the totality Software Staff governed by the &lt;t4/&gt;OpenChain&lt;t5/&gt; Conforming program.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20190121T162329Z" creationid="Jang" creationdate="20190121T162329Z">
-        <seg>85%는 반드시 전체 조직을 지칭하는 것이 아니고, OpenChain 준수 프로그램이 적용되는 전체 소프트웨어 공급담당자를 지칭할 수 있다. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The 85% may not necessarily refer to the entire organization, but to the totality Software Staff governed by the OpenChain Conforming program.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T133619Z" creationid="Jang" creationdate="20181123T133619Z">
         <seg>85%는 반드시 전체 조직을 지칭하는 것이 아니고, OpenChain 준수 프로그램이 적용되는 전체 소프트웨어 공급담당자를 지칭할 수 있다. </seg>
       </tuv>
     </tu>
@@ -2438,14 +2246,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The details of the policy and available translations can be found on the OpenChain project &lt;t0/&gt;specification webpage&lt;t1/&gt;.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T163335Z" creationid="Jang" creationdate="20181123T162803Z">
-        <seg>정책 및 사용 가능한 번역에 대한 자세한 내용은 OpenChain 프로젝트 설명서 웹 페이지에서 확인할 수 있습니다.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The details of the policy&lt;t5/&gt; and available &lt;t6/&gt;translations can be found on the OpenChain project &lt;t7/&gt;s&lt;t8/&gt;pecification webpage&lt;t9/&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170731T152305Z" creationid="Jang" creationdate="20170722T035157Z">
@@ -2497,14 +2297,6 @@
         <seg>The organization affirms &lt;t0/&gt;the existence of &lt;t1/&gt;a&lt;t2/&gt; FOSS management program &lt;t3/&gt;that meets all the requirements of this &lt;t4/&gt;Ope&lt;t5/&gt;nChain&lt;t6/&gt; Specification version 1.2&lt;t7/&gt; within the past 18 months of achieving conformance validation.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20190121T163050Z" creationid="Jang" creationdate="20190121T163050Z">
-        <seg>조직은 준수 인증을 받은 후 18개월 동안 이 OpenChain 설명서 1.2 버전의 모든 요건을 충족하는 FOSS 관리 프로그램이 존재함을 확약한다.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The organization affirms &lt;t0/&gt;the existence of &lt;t1/&gt;a&lt;t2/&gt; FOSS management program &lt;t3/&gt;that meets all the requirements of this Ope&lt;t4/&gt;nChain Specification version 1.2&lt;t5/&gt; within the past 18 months of achieving conformance validation.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T153810Z" creationid="Jang" creationdate="20181123T161851Z">
         <seg>조직은 준수 인증을 받은 후 18개월 동안 이 OpenChain 설명서 1.2 버전의 모든 요건을 충족하는 FOSS 관리 프로그램이 존재함을 확약한다.</seg>
       </tuv>
     </tu>
@@ -2702,26 +2494,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This requirement ensures that the program’s supporting processes and controls do not erode if &lt;t4/&gt;the conforming organization &lt;t5/&gt;continue to assert conformance overtime.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T153858Z" creationid="Jang" creationdate="20181123T162216Z">
-        <seg>이 요건은 준수 조직이 시간이 지나도 계속해서 준수를 주장하는 경우 프로그램의 지원 프로세스와 통제가 약화되지 않았음을 보장하기 위함</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>This set is referred to as the Compliance Artifacts which may include (but &lt;t3/&gt;are&lt;t4/&gt; &lt;t5/&gt;not limited to) &lt;t6/&gt;one or more of &lt;t7/&gt;the following&lt;t8/&gt;: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, SPDX documents and so forth.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170801T141242Z" creationid="Jang" creationdate="20170722T023645Z">
         <seg>이 집합을 Compliance 결과물이라고 하고, 다음 사항이 포함된다 (이에 국한되지 않음) : 소스 코드, 저작자 고지, 저작권 고지, 라이선스 사본, 수정 내용 고지, 서면 청약, SPDX 문서 등.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This set is referred to as the Compliance Artifacts which may include (but are not limited to) one or more of the following: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, SPDX documents and so forth.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T145252Z" creationid="Jang" creationdate="20181123T145252Z">
-        <seg>이들을 컴플라이언스 결과물이라고 하고, 다음 중 하나 이상이 포함될 수 있다(이에 국한되지 않음). : 소스 코드, 저작자 고지, 저작권 고지, 라이선스 사본, 수정 내용 고지, 서면 청약, SPDX 문서 등.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2862,14 +2638,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>To ensure that if an organization declares that it has a program that is OpenChain Conforming, that such program has met &lt;t0/&gt;all&lt;t1/&gt; the requirements of this specification.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T154836Z" creationid="Jang" creationdate="20181123T161042Z">
-        <seg>조직이 OpenChain을 준수하는 프로그램을 가지고 있다고 선언하면, 해당 프로그램이 이 설명서의 모든 요건을 충족하였음을 보장하기 위함.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>To ensure the program is sufficiently robust to handle an organization’s common FOSS license use cases.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20181123T144956Z" creationid="Jang" creationdate="20181123T144656Z">
@@ -2969,14 +2737,6 @@
         <seg>Verification Materials are not intended to be public, but could be provided under NDA or upon private request from the &lt;t2/&gt;OpenChain&lt;t3/&gt; organization to validate conformance.</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20190121T162114Z" creationid="Jang" creationdate="20190121T162114Z">
-        <seg>검증 자료는 공개용으로 작성된 것은 아니지만, 준수를 인증하기 위해 NDA(비공개합의) 하에서 또는 OpenChain 조직의 개별적 요청에 따라 제공될 수 있다.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Verification Materials are not intended to be public, but could be provided under NDA or upon private request from the OpenChain organization to validate conformance.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T153635Z" creationid="Jang" creationdate="20181123T114754Z">
         <seg>검증 자료는 공개용으로 작성된 것은 아니지만, 준수를 인증하기 위해 NDA(비공개합의) 하에서 또는 OpenChain 조직의 개별적 요청에 따라 제공될 수 있다.</seg>
       </tuv>
     </tu>
@@ -3118,14 +2878,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>contains FOSS with attribution requirements.</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20190121T153359Z" creationid="Jang" creationdate="20181123T141948Z">
-        <seg>저작자 표시 요건이 있는 FOSS를 포함하는 경우.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>contains modified FOSS</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170722T065053Z" creationid="Jang" creationdate="20170722T065053Z">
@@ -3233,14 +2985,6 @@
         <seg>integrated with other FOSS such that it may trigger &lt;t0/&gt;copyleft&lt;t1/&gt; obligations&lt;t2/&gt;;</seg>
       </tuv>
       <tuv lang="KO" changeid="Jang" changedate="20170722T021842Z" creationid="Jang" creationdate="20170722T021709Z">
-        <seg>다른 FOSS와 통합되어 Copyleft 의무를 발생시키는 경우;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>integrated with other FOSS such that it may trigger copyleft obligations;</seg>
-      </tuv>
-      <tuv lang="KO" changeid="Jang" changedate="20181123T141723Z" creationid="Jang" creationdate="20181123T141723Z">
         <seg>다른 FOSS와 통합되어 Copyleft 의무를 발생시키는 경우;</seg>
       </tuv>
     </tu>
