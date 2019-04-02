@@ -5,13 +5,13 @@ OpenChain([https://www.openchainproject.org/](https://www.openchainproject.org/)
 src directory내의 md 파일을 번역 후 pull request 혹은 maintainer에게 email로 보내주시면 검토 후 반영하겠습니다. 
 
 ## Contributor
-** Maintainer **
+**Maintainer**
 
 | Name | Company | Email |
 |--|--|--|
 | Haksung Jang | LG Electronics | hakssung@gmail.com |
 
-** Contributor(s): **
+**Contributor(s):**
 
 | Name | Company | Email |
 |--|--|--|
