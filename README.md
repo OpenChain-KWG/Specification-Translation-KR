@@ -1,4 +1,9 @@
 # OpenChain Specification Korean Translation
+
+This repository is a work space for translation. Please work off the official release translation repository for future revisions.
+
+The official release translations of the OpenChain Specification are housed in a unified repository here: https://github.com/OpenChain-Project/Specification-Translations
+
 OpenChain([https://www.openchainproject.org/](https://www.openchainproject.org/))  스펙문서([https://www.openchainproject.org/spec](https://www.openchainproject.org/spec))의 한국어 번역을 위한 repository입니다. 
 
 ## 공동 번역 방법
