@@ -37,6 +37,6 @@ This is an official translation from the OpenChain Project. It has been translat
 
 이 문서는 OpenChain Project의 공식 번역본입니다. 영어 원문에서 번역되었습니다. 번역본과 영문본 사이에 불일치가 있는 경우, 영문 문서가 우선합니다.
 
-Copyright © 2016-2019 Linux Foundation. This document is licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license. A copy of the license can be found atㅜ [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
+Copyright © 2016-2019 Linux Foundation. This document is licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license. A copy of the license can be found at [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
 
 Copyright © 2016-2019 Linux Foundation. 이  문서는  크리에이티브  커먼즈  애트리뷰션  라이선스  인터네셔널 4.0(CC-BY-4.0)에  따라  이용허락됩니다. 그  라이선스의  사본은  여기서는  얻을  수  있습니다. [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
