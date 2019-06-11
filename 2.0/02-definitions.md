@@ -3,11 +3,11 @@
 
 **&quot;Compliance Artifacts&quot; -** a collection of artifacts that represent the output of the Program for the Supplied Software. The collection may include (but is not limited to) one or more of the following: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, Open Source component bill of materials, and SPDX documents.
 
-**&quot;컴플라이언스 결과물&quot; -** 공급  대상  소프트웨어에  대한  프로그램의  산출물을  나타내는  결과물의  집합. 이  집합에는  다음  중  하나  이상이  포함될  수  있다 (단, 이에  국한되지  않음) : 소스  코드, 저작자  고지, 저작권  고지, 라이선스  사본, 수정  내용  고지, 서면  청약, 오픈  소스  컴포턴트 BOM (Bill of Materials), SPDX 문서.
+**&quot;컴플라이언스 결과물&quot; -** 공급  대상  소프트웨어에  대한  프로그램의  산출물을  나타내는  결과물의  모음. 이 모음에는  다음  중  하나  이상이  포함될  수  있다 (단, 이에  국한되지  않음) : 소스  코드, 저작자  고지, 저작권  고지, 라이선스  사본, 수정  내용  고지, 서면  청약, 오픈  소스  컴포턴트 BOM (Bill of Materials), SPDX 문서.
 
 **&quot;Identified Licenses&quot;** - a set of Open Source Software licenses identified as a result of following an appropriate method of identifying Open Source components from which the Supplied Software is comprised.
 
-**&quot;식별된 라이선스&quot;** - 공급 대상 소프트웨어가 구성하는 오픈 소스 컴포넌트를 식별하기 위한 적절한 방법을 수행한 결과로 식별된 일련의 오픈 소스 라이선스.
+**&quot;식별된 라이선스&quot;** - 공급 대상 소프트웨어가 구성하는 오픈 소스 컴포넌트를 식별하기 위한 적합한 방법을 따른 결과로 식별된 오픈 소스 라이선스의 집합.
 
 **&quot;OpenChain Conformant**&quot; - a Program that satisfies all the requirements of this specification.
 
@@ -19,11 +19,11 @@
 
 **&quot;Program&quot;** – the set of policies, processes and personnel that manage an organization&#39;s Open Source license compliance activities.
 
-**&quot;프로그램&quot;** – 조직의 오픈 소스 라이선스 컴플라이언스 활동을 관리하는 정책, 프로세스와 인력의 집합.
+**&quot;프로그램&quot;** – 조직의 오픈 소스 라이선스 컴플라이언스 활동을 관리하는 정책, 프로세스 및 담당자 집합.
 
 **&quot;Software Staff&quot;** - any organization employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software. Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.
 
-**&quot;소프트웨어 공급 담당자&quot;** - 공급 대상 소프트웨어의 범위를 정의하거나, 그 소프트웨어에 기여하거나, 그를 준비하는 책임을 지는 모든 직원 또는 수급인. 조직에 따라 소프트웨어 개발자, 배포 엔지니어, 품질 엔지니어, 제품 마케팅 및 제품 관리자가 포함될 수 있지만, 이에 국한되지 않는다.
+**&quot;소프트웨어 공급 담당자&quot;** - 공급 대상 소프트웨어의 범위를 정의하거나, 기여 또는 준비하는 책임을 지는 모든 직원 또는 수급인. 조직에 따라 소프트웨어 개발자, 배포 엔지니어, 품질 엔지니어, 제품 마케팅 및 제품 관리자가 포함될 수 있지만, 이에 국한되지 않는다.
 
 **&quot;SPDX&quot;** - the format standard created by the Linux Foundation&#39;s SPDX (Software Package Data Exchange) Working Group for exchanging license and copyright information for a given software package. A description of the SPDX specification can be found at www.spdx.org.
 
