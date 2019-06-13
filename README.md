@@ -26,6 +26,6 @@ src directory내의 md 파일을 번역 후 pull request 혹은 maintainer에게
 ## License
 번역 결과물은 CC BY 4.0로 공개합니다. : [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
-## OpenChain Korean Work Group Wiki
+## OpenChain Korea Work Group Wiki
 [https://wiki.linuxfoundation.org/openchain/openchain-korean-working-group](https://wiki.linuxfoundation.org/openchain/openchain-korean-working-group)
 
