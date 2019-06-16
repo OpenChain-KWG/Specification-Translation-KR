@@ -21,6 +21,7 @@ src directory내의 md 파일을 번역 후 pull request 혹은 maintainer에게
 | Name | Company | Email |
 |--|--|--|
 | Jongbaek Park | BKL | jb.park@bkl.co.kr |
+| Seo-Young Isabelle Hwang | Samsung |  |
 | You | Your company | Your email address |
 
 ## License
