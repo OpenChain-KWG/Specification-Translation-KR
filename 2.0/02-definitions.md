@@ -3,7 +3,7 @@
 
 **&quot;Compliance Artifacts&quot; -** a collection of artifacts that represent the output of the Program for the Supplied Software. The collection may include (but is not limited to) one or more of the following: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, Open Source component bill of materials, and SPDX documents.
 
-**&quot;컴플라이언스 결과물&quot; -** 공급  대상  소프트웨어에  대한  프로그램의  산출물을  나타내는  결과물의  모음. 이 모음에는  다음  중  하나  이상이  포함될  수  있다 (단, 이에  국한되지  않음) : 소스  코드, 저작자  고지, 저작권  고지, 라이선스  사본, 수정  내용  고지, 서면  청약, 오픈  소스  컴포턴트 BOM (Bill of Materials), SPDX 문서.
+**&quot;컴플라이언스 결과물&quot; -** 공급  대상  소프트웨어에  대한  프로그램  산출물의  결과물 모음. 이 모음에는  다음  중  하나  이상이  포함될  수  있다 (단, 이에  국한되지  않음) : 소스  코드, 저작자  고지, 저작권  고지, 라이선스  사본, 수정  내용  고지, 서면  청약, 오픈  소스  컴포턴트 BOM (Bill of Materials), SPDX 문서.
 
 **&quot;Identified Licenses&quot;** - a set of Open Source Software licenses identified as a result of following an appropriate method of identifying Open Source components from which the Supplied Software is comprised.
 
