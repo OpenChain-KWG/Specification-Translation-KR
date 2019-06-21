@@ -3,11 +3,11 @@
 
 **&quot;Compliance Artifacts&quot; -** a collection of artifacts that represent the output of the Program for the Supplied Software. The collection may include (but is not limited to) one or more of the following: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, Open Source component bill of materials, and SPDX documents.
 
-**&quot;컴플라이언스 결과물&quot; -** 공급  대상  소프트웨어에  대한  프로그램  산출물의  결과물 모음. 이 모음에는  다음  중  하나  이상이  포함될  수  있다 (단, 이에  국한되지  않음) : 소스  코드, 저작자  고지, 저작권  고지, 라이선스  사본, 수정  내용  고지, 서면  청약, 오픈  소스  컴포턴트 BOM (Bill of Materials), SPDX 문서.
+**&quot;컴플라이언스 결과물&quot; -** 공급  대상  소프트웨어에  대한  프로그램  산출물의  결과물 모음. 이 모음에는  다음  중  하나  이상이  포함될  수  있다 (단, 이에  국한되지  않음) : 소스  코드, 저작자  고지, 저작권  고지, 라이선스  사본, 수정  내용  고지, 서면  청약, 오픈소스 컴포넌트 BOM (Bill of Materials), SPDX 문서.
 
 **&quot;Identified Licenses&quot;** - a set of Open Source Software licenses identified as a result of following an appropriate method of identifying Open Source components from which the Supplied Software is comprised.
 
-**&quot;식별된 라이선스&quot;** - 공급 대상 소프트웨어가 구성하는 오픈 소스 컴포넌트를 식별하기 위한 적합한 방법을 따른 결과로 식별된 오픈 소스 라이선스의 집합.
+**&quot;식별된 라이선스&quot;** - 공급 대상 소프트웨어가 구성하는 오픈소스 컴포넌트를 식별하기 위한 적합한 방법을 따른 결과로 식별된 오픈소스 라이선스의 집합.
 
 **&quot;OpenChain Conformant**&quot; - a Program that satisfies all the requirements of this specification.
 
@@ -19,7 +19,7 @@
 
 **&quot;Program&quot;** – the set of policies, processes and personnel that manage an organization&#39;s Open Source license compliance activities.
 
-**&quot;프로그램&quot;** – 조직의 오픈 소스 라이선스 컴플라이언스 활동을 관리하는 정책, 프로세스 및 담당자 집합.
+**&quot;프로그램&quot;** – 조직의 오픈소스 라이선스 컴플라이언스 활동을 관리하는 정책, 프로세스 및 담당자 집합.
 
 **&quot;Software Staff&quot;** - any organization employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software. Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.
 
@@ -31,10 +31,10 @@
 
 **&quot;Supplied Software&quot;** - software that an organization distributes to third parties (_e.g._, other organizations or individuals).
 
-**&quot;공급 대상 소프트웨어&quot;** - 조직이 제3자(예: 다른 조직 또는 개인)에게 배포하는 소프트웨어.
+**&quot;공급 대상 소프트웨어&quot;** - 조직이 제3자(다른 조직 또는 개인)에게 배포하는 소프트웨어.
 
 **&quot;Verification Materials&quot;** -materials that demonstrate that a given requirement is satisfied.
 
-**&quot;입증 자료&quot;** -특정 요건이 충족되었음을 입증하는 자료.
+**&quot;입증 자료&quot;** - 주어진 요건이 충족되었음을 입증하는 자료.
 
 
