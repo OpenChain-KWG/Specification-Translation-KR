@@ -7,7 +7,7 @@ The official release translations of the OpenChain Specification are housed in a
 OpenChain([https://www.openchainproject.org/](https://www.openchainproject.org/))  스펙문서([https://www.openchainproject.org/spec](https://www.openchainproject.org/spec))의 한국어 번역을 위한 repository입니다. 
 
 ## 공동 번역 방법
-src directory내의 md 파일을 번역 후 pull request 혹은 maintainer에게 email로 보내주시면 검토 후 반영하겠습니다. 
+2.0 directory내의 md 파일을 번역 후 pull request 혹은 maintainer에게 email로 보내주시면 검토 후 반영하겠습니다. 
 
 ## Contributor
 **Maintainer**
