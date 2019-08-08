@@ -11,7 +11,7 @@
 
 **&quot;OpenChain Conformant**&quot; - a Program that satisfies all the requirements of this specification.
 
-**&quot;OpenChain 적합**&quot; - 이 설명서의 모든 요건을 충족하는 프로그램.
+**&quot;OpenChain 준수**&quot; - 이 설명서의 모든 요건을 충족하는 프로그램.
 
 **&quot;Open Source&quot;**  - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.
 
@@ -35,6 +35,6 @@
 
 **&quot;Verification Materials&quot;** -materials that demonstrate that a given requirement is satisfied.
 
-**&quot;입증 자료&quot;** - 주어진 요건이 충족되었음을 입증하는 자료.
+**&quot;검증 자료&quot;** - 주어진 요건이 충족되었음을 입증하는 자료.
 
 
