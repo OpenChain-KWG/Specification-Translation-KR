@@ -9,29 +9,29 @@ _소프트웨어 솔루션으로서의 오픈소스의 신뢰 구축_
 
 **Contents**
 
- - 1)Introduction
- - 2)Definitions
- - 3)Requirements
-	 - 1.0 Program Foundation
-	 - 2.0 Relevant Tasks Defined and Supported
-	 - 3.0 Open Source Content Review and Approval
-	 - 4.0 Compliance Artifact Creation and Delivery
-	 - 5.0 Understanding Open Source Community Engagements       
-	 - 6.0 Adherence to the Specification Requirements
-- Appendix I: Language Translations
+	1)Introduction
+	2)Definitions
+	3)Requirements
+		1.0 Program Foundation
+	 	2.0 Relevant Tasks Defined and Supported
+		3.0 Open Source Content Review and Approval
+		4.0 Compliance Artifact Creation and Delivery
+		5.0 Understanding Open Source Community Engagements       
+		6.0 Adherence to the Specification Requirements
+	Appendix I: Language Translations
 
 **목차**
 
- - 1)소개
- - 2)정의
- - 3)요건
-	 - 1.0 프로그램 설립
-	 - 2.0 관련 태스크 정의 및 지원
-	 - 3.0 오픈 소스 콘텐츠 검토 및 승인
-	 - 4.0 컴플라이언스 결과물 생성 및 전달
-	 - 5.0 오픈 소스 커뮤니티 참여에 대한 이해       
-	 - 6.0 설명서 요건 준수
-- 부록 I: 언어 번역
+	1)소개
+	2)정의
+	3)요건
+		1.0 프로그램 설립
+		2.0 관련 태스크 정의 및 지원
+		3.0 오픈 소스 콘텐츠 검토 및 승인
+		4.0 컴플라이언스 결과물 생성 및 전달
+		5.0 오픈 소스 커뮤니티 참여에 대한 이해       
+		6.0 설명서 요건 준수
+	부록 I: 언어 번역
 
 This is an official translation from the OpenChain Project. It has been translated from the original English text. In the event there is confusion between this translation and the English version, The English text shall take precedence.
 
