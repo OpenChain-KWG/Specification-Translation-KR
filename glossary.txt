@@ -7,7 +7,7 @@ License	라이선스
 supply chain	공급망
 open source	오픈소스
 Conformance	적합성
-Conformant	적합
+Conformant	준수
 Introduction	소개
 Definition	정의
 artifacts	결과물
@@ -52,7 +52,6 @@ Software	소프트웨어
 Engineer	엔지니어
 Vision	비전
 Mission	사명
-release	배포
 Goal	목표
 Component	컴포넌트
 accompany	수반하다
@@ -60,3 +59,4 @@ Verification	입증
 contributor	컨트리뷰터
 Competence	역량
 Task	태스크
+content	컨텐츠

@@ -15,7 +15,7 @@
 
 **&quot;Open Source&quot;**  - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.
 
-**&quot;오픈 소스&quot;**  - Open Source Initiative(OpenSource.org)에서 발표한 Open Source Definition 혹은 Free Software Foundation에서 발표한 Free Software Definition을 충족하는 라이선스, 혹은 유사한 라이선스가 하나 이상 적용된 소프트웨어.
+**&quot;오픈소스&quot;**  - Open Source Initiative(OpenSource.org)에서 발표한 Open Source Definition 혹은 Free Software Foundation에서 발표한 Free Software Definition을 충족하는 라이선스, 혹은 유사한 라이선스가 하나 이상 적용된 소프트웨어.
 
 **&quot;Program&quot;** – the set of policies, processes and personnel that manage an organization&#39;s Open Source license compliance activities.
 
@@ -27,7 +27,7 @@
 
 **&quot;SPDX&quot;** - the format standard created by the Linux Foundation&#39;s SPDX (Software Package Data Exchange) Working Group for exchanging license and copyright information for a given software package. A description of the SPDX specification can be found at www.spdx.org.
 
-**&quot;SPDX&quot;** - 특정 소프트웨어 패키지에 대한 라이선스 및 저작권 정보를 교환하기 위해 Linux Foundation의 SPDX(Software Package Data Exchange) 워킹 그룹이 만든 표준 형식. SPDX 설명서에 대한 설명은 www.spdx.org에서 확인할 수 있다.
+**&quot;SPDX&quot;** - 특정 소프트웨어 패키지에 대한 라이선스 및 저작권 정보를 교환하기 위해 Linux Foundation의 SPDX (Software Package Data Exchange) 워킹 그룹에서 작성한 형식 표준. SPDX 설명서에 대한 설명은 www.spdx.org에서 확인할 수 있다.
 
 **&quot;Supplied Software&quot;** - software that an organization distributes to third parties (_e.g._, other organizations or individuals).
 
