@@ -23,6 +23,7 @@ translate directory내의 md 파일을 번역 후 pull request 혹은 maintainer
 |--|--|--|
 | Jongbaek Park | BKL | jb.park@bkl.co.kr |
 | Seo-Young Isabelle Hwang | Samsung | seoyoung.hwang@samsung.com |
+| Jongho Hong | LGE | jjongho.hong@lge.com |
 | You | Your company | Your email address |
 
 ## License
