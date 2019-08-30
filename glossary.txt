@@ -58,5 +58,6 @@ accompany	수반하다
 Verification	입증
 contributor	컨트리뷰터
 Competence	역량
-Task	태스크
+Task	업무
 content	컨텐츠
+participant	참여자
