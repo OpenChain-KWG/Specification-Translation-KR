@@ -7,8 +7,8 @@ This specification defines the key requirements of a quality open source license
 
 This introduction provides the context for all potential users. Section 2 defines key terms used throughout the Specification. Section 3 defines the requirements that a Program must satisfy to achieve conformance. A requirement consists of one or more Verification Materials (_i.e._, records) that must be produced to satisfy the requirement. Verification Materials are not required to be made public, though an organization may choose to provide them to others, potentially under a Non-Disclosure Agreement (NDA).
 
-이 소개는 모든 잠재적 사용자를 위한 개요이다.  2장 에서는 설명서 전체에서 사용되는 주요 용어를 정의한다. 3장에서는 프로그램이 OpenChain 설명서를 준수하기 위해 충족해야 하는 요건을 정의한다. 하나의 요건은 이를 충족하기 위해 생성되어야 하는 하나 이상의 검증 자료(기록 등)로 구성된다. 검증 자료를 공개해야 할 필요는 없지만, 선택적으로 비공개 계약(NDA)하에 다른 조직에 제공할 수 있다.
+이 소개는 모든 잠재적 사용자를 위한 개요이다. 2장 에서는 설명서 전체에서 사용되는 주요 용어를 정의한다. 3장에서는 프로그램이 OpenChain 설명서를 준수하기 위해 충족해야 하는 요건을 정의한다. 하나의 요건은 이를 충족하기 위해 생성되어야 하는 하나 이상의 검증 자료(기록 등)로 구성된다. 검증 자료를 공개해야 할 필요는 없지만, 선택적으로 비공개 계약(NDA)하에 다른 조직에 제공할 수 있다.
 
 The Specification is developed as an open initiative with feedback received from over 150 contributors. Insight into its historical development can be obtained by reviewing the Specification [mailing list](https://lists.linuxfoundation.org/mailman/listinfo/openchain-spec) and [Frequently Asked Questions (FAQs)](https://wiki.linuxfoundation.org/openchain/specification-questions-and-answers).
 
-설명서는 150명 이상의 컨트리뷰터로부터 피드백을 받는 오픈 이니셔티브로 개발되었다. 설명서 [메일링 리스트](https://lists.linuxfoundation.org/mailman/listinfo/openchain-spec)와 [자주 하는 질문(FAQ)](https://wiki.linuxfoundation.org/openchain/specification-questions-and-answers)를 검토하면 개발 이력을 이해할 수 있다.
+설명서는 150명 이상의 기여자로부터 피드백을 받은 오픈 이니셔티브로 개발되었다. 설명서 [메일링 리스트](https://lists.linuxfoundation.org/mailman/listinfo/openchain-spec)와 [자주 하는 질문(FAQ)](https://wiki.linuxfoundation.org/openchain/specification-questions-and-answers)을 검토하면 개발 이력을 이해할 수 있다.

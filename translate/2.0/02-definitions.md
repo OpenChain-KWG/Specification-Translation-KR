@@ -3,7 +3,7 @@
 
 **&quot;Compliance Artifacts&quot; -** a collection of artifacts that represent the output of the Program for the Supplied Software. The collection may include (but is not limited to) one or more of the following: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, Open Source component bill of materials, and SPDX documents.
 
-**&quot;컴플라이언스 결과물&quot; -** 공급  대상  소프트웨어에  대한  프로그램  산출물의  결과물 모음. 이 모음에는  다음  중  하나  이상이  포함될  수  있다 (단, 이에  국한되지  않음) : 소스  코드, 저작자  고지, 저작권  고지, 라이선스  사본, 수정  내용  고지, 서면  청약, 오픈소스 컴포넌트 BOM (Bill of Materials), SPDX 문서.
+**&quot;컴플라이언스 결과물&quot; -** 공급 대상 소프트웨어에 대한 프로그램 산출물의 결과물 모음. 이 모음에는 다음 중 하나 이상이 포함될 수 있다 (단, 이에 국한되지 않음) : 소스 코드, 저작자 고지, 저작권 고지, 라이선스 사본, 수정 내용 고지, 서면 청약, 오픈소스 컴포넌트 BOM (Bill of Materials), SPDX 문서.
 
 **&quot;Identified Licenses&quot;** - a set of Open Source Software licenses identified as a result of following an appropriate method of identifying Open Source components from which the Supplied Software is comprised.
 
@@ -11,11 +11,11 @@
 
 **&quot;OpenChain Conformant**&quot; - a Program that satisfies all the requirements of this specification.
 
-**&quot;OpenChain 준수**&quot; - 이 설명서의 모든 요건을 충족하는 프로그램.
+**&quot;OpenChain 준수(Conformant)**&quot; - 이 설명서의 모든 요건을 충족하는 프로그램.
 
-**&quot;Open Source&quot;**  - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.
+**&quot;Open Source&quot;** - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.
 
-**&quot;오픈소스&quot;**  - Open Source Initiative(OpenSource.org)에서 발표한 Open Source Definition 혹은 Free Software Foundation에서 발표한 Free Software Definition을 충족하는 라이선스, 혹은 유사한 라이선스가 하나 이상 적용된 소프트웨어.
+**&quot;오픈소스&quot;** - Open Source Initiative(OpenSource.org)에서 발표한 Open Source Definition 혹은 Free Software Foundation에서 발표한 Free Software Definition을 충족하는 라이선스, 혹은 유사한 라이선스가 하나 이상 적용된 소프트웨어.
 
 **&quot;Program&quot;** – the set of policies, processes and personnel that manage an organization&#39;s Open Source license compliance activities.
 
