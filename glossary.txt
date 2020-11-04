@@ -10,7 +10,8 @@ Conformance	적합성
 Conformant	준수
 Introduction	소개
 Definition	정의
-artifacts	결과물
+artifact	산출물
+output	결과물
 organization	조직
 Disclaimer	면책
 policy	정책
