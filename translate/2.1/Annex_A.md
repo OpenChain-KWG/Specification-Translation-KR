@@ -1,0 +1,3 @@
+# Annex A (informative) Language translations of this specification
+
+To facilitate global adoption, efforts to translate the specification into different languages are most welcome. Because OpenChain functions as an open source project, translations are prepared by those willing to contribute their time and expertise to perform the translations. Translations are i) offered under the terms of the CC-BY-4.0 license and ii) consistent with the project’s translation policy. The details of the policy and available translations can be found on the OpenChain project’s wiki.

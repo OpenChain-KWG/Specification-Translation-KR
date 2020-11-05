@@ -1,4 +1,4 @@
-Requirement	요건
+Requirement	요구사항
 Responsibility	책임
 Review	검토
 Approve	승인

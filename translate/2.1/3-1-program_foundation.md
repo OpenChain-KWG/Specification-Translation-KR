@@ -5,7 +5,7 @@
 A written open source policy shall exist that governs open source license compliance of the supplied software. The policy shall be internally communicated.
 
 ~~~
-3. 요건
+3. 요구사항
 
 3.1 프로그램 설립
 
@@ -75,5 +75,66 @@ Ensure that the program participants have obtained a sufficient level of compete
 ~~~
 이유
 
-프로그램 참가자가 각자의 역할과 책임에 대해 충분한 수준의 역량을 확보했는지 확인하기 위해서이다. 
+프로그램 참가자들이 각자의 역할과 책임에 대해 충분한 수준의 역량을 확보했는지 확인하기 위해서이다. 
 ~~~
+
+### 3.1.3 Awareness
+The organization shall ensure that the program participants are aware of:
+* The open source policy;
+* Relevant open source objectives;
+* Their contribution to the effectiveness of the program; and
+* The implications of not following the Program’s requirements.
+
+~~~
+인식
+
+조직은 프로그램 참여자가 다음 사항을 숙지하도록 해야 한다:
+
+* 오픈소스 정책
+* 오픈소스 관련 목표
+* 효과적인 프로그램이 되기 위한 참여자의 기여 방법
+* 프로그램의 요구사항을 준수하지 않았을 때 발생할 위험
+~~~
+
+#### Verification material(s):
+
+* 3.1.3.1 Documented evidence of assessed awareness for the program participants - which should include the program’s objectives, one’s contribution within the program, and implications of program non-conformance.
+
+
+~~~
+검증 자료
+
+3.1.3.1 프로그램 참가자에 대해 다음 사항에 대한 인식을 평가하였음을 나타내는 문서 : 프로그램의 목표, 프로그램 내에서의 참여자 기여 방법, 프로그램을 준수하지 않을 때의 시사점
+~~~
+
+#### Rationale:
+To ensure the program participants have obtained a sufficient level of awareness for their respective roles and responsibilities within the program.
+
+~~~
+이유:
+
+프로그램 참가자가 프로그램 내에서 각자의 역할과 책임에 대해 충분한 수준의 인식을 갖고 있는지 확인하기 위해서이다.
+~~~
+
+### 3.1.4 Program scope
+Different programs may be governed by different levels of scope. For example, a program could govern a single product line, an entire department or an entire organization. The scope designation needs to be declared for each program.
+
+
+#### Verification material(s):
+* 3.1.4.1 A written statement that clearly defines the scope and limits of the program. 
+
+
+#### Rationale:
+To provide the flexibility to construct a program that best fits the scope of an organization’s needs. Some organizations could choose to maintain a program for a specific product line while others could implement a program to govern the supplied software of the entire organization.
+
+### 3.1.5 License obligations
+
+A process shall exist for reviewing the identified licenses to determine the obligations, restrictions and rights granted by each license.
+
+#### Verification material(s):
+* 3.1.5.1 A documented procedure to review and document the obligations, restrictions and rights granted by each identified license.
+
+#### Rationale:
+
+To ensure a process exists for reviewing and identifying the license obligations for each identified license for the various use cases an organization may encounter (as defined in §3.3.2).
+
