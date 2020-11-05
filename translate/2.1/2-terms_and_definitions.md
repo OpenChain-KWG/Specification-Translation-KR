@@ -48,7 +48,7 @@ the set of policies, processes and personnel that comprise an organization’s o
 ~~~
 프로그램
 
-조직의 오픈소스 라이선스 컴플라이언스 활동을 구성하는 일련의 정책, 프로세스 및 인력 집합니다.
+조직의 오픈소스 라이선스 컴플라이언스 활동을 구성하는 일련의 정책, 프로세스 및 인력 집합이다.
 ~~~
 
 ## 2.6 program participants
