@@ -119,22 +119,55 @@ To ensure the program participants have obtained a sufficient level of awareness
 ### 3.1.4 Program scope
 Different programs may be governed by different levels of scope. For example, a program could govern a single product line, an entire department or an entire organization. The scope designation needs to be declared for each program.
 
+~~~
+3.1.4 프로그램 범위
+
+각 프로그램은 다양한 수준의 범위에 적용하여 관리할 수 있다. 예를 들어, 한 프로그램을 단일 제품군에만 적용하거나 전체 부서 또는 전체 조직에 적용하여 관리할 수 있다. 따라서 각 프로그램에는 적용되는 범위를 정확히 명시해야 한다. 
+~~~
 
 #### Verification material(s):
 * 3.1.4.1 A written statement that clearly defines the scope and limits of the program. 
 
+~~~
+검증 자료:
+
+프로그램의 범위와 한계를 명확하게 정의한 문서화된 표현.
+~~~
 
 #### Rationale:
 To provide the flexibility to construct a program that best fits the scope of an organization’s needs. Some organizations could choose to maintain a program for a specific product line while others could implement a program to govern the supplied software of the entire organization.
+
+~~~
+이유: 
+
+조직의 필요 범위에 맞게 가장 적합한 프로그램을 유연하게 구성하기 위해서이다. 어떤 조직은 프로그램을 특정 제품군을 관리하도록 적용할 수 있고, 또 어떤 프로그램은 전체 조직에서 배포하는 소프트웨어를 관리하도록 구현할 수 있다.
+~~~
 
 ### 3.1.5 License obligations
 
 A process shall exist for reviewing the identified licenses to determine the obligations, restrictions and rights granted by each license.
 
+~~~
+3.1.5 라이선스 의무
+
+각 라이선스에 의해 부여된 의무, 제한 및 권리를 알아내기 위해 식별된 라이선스를 검토하는 프로세스가 있어야 한다.
+~~~
+
 #### Verification material(s):
 * 3.1.5.1 A documented procedure to review and document the obligations, restrictions and rights granted by each identified license.
+
+~~~
+검증 자료
+
+3.1.5.1 각 식별된 라이선스에 의해 부과되는 의무, 제한 및 권리를 검토하고 문서화하는 문서화된 절차.
+~~~
 
 #### Rationale:
 
 To ensure a process exists for reviewing and identifying the license obligations for each identified license for the various use cases an organization may encounter (as defined in §3.3.2).
 
+~~~
+이유
+
+조직이 직면할 수 있는 다양한 사용 사례(3.3.2조 정의)에 대해 각 식별된 라이선스의 의무를 검토하고 확인하는 프로세스가 있는지 확인하기 위해서이다.
+~~~
