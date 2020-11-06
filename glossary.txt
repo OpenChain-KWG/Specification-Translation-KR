@@ -7,7 +7,7 @@ License 라이선스
 supply chain 공급망
 open source 오픈소스
 Conformance 적합, 적합성 (문맥에 따라 사용)
-Conformant 준수
+Conformant 적합
 Introduction 소개
 Definition 정의
 artifact 산출물
