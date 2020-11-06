@@ -26,7 +26,7 @@ Any trade name used in this document is information given for the convenience of
 
 For an explanation of the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO's adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT), see www.iso.org/iso/foreword.html. 
 
-표준의 자발적인 특성에 대한 설명, 적합성 평가와 관련된 ISO 특정 용어 및 표현의 의미, 그리고 무역에 대한 기술적 장벽(TBT, Technical Barriers to Trade)에 있어서 ISO가 세계무역기구(WTO) 원칙을 준수하는 것에 대한 정보는 다음을 참조하세요 : www.iso.org/iso/foreword.html.
+표준의 자발적인 특성에 대한 설명, 적합성 평가와 관련된 ISO 특정 용어 및 표현의 의미, 그리고 무역에 대한 기술적 장벽(TBT, Technical Barriers to Trade)에 있어서 ISO가 세계무역기구(WTO) 원칙을 준수하는 것에 대한 정보는 다음을 참조할 수 있다 : www.iso.org/iso/foreword.html.
 
 ---
 
