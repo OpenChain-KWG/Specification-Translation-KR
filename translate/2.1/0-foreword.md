@@ -4,7 +4,7 @@ ISO (the International Organization for Standardization) is a worldwide federati
 
 머리말
 
-ISO(International Organization for Standardization)는 국가 표준 기구(ISO 회원 기구)의 세계적인 연합체다. 국제 표준 준비 작업은 일반적으로 ISO 기술위원회를 통해 수행된다. 기술위원회가 설립된 주제에 관심이 있는 각 회원 단체는 그 위원회를 대표할 권리가 있다. ISO와 연계된 정부 및 비정부 국제기구도 이 작업에 참여한다. ISO는 전기 기술 표준화의 모든 문제에 대해 IEC (International Electrotechnical Commission)와 긴밀히 협력한다.
+ISO(International Organization for Standardization)는 국가 표준 기구(ISO 회원 기구)의 세계적인 연합체이다. 국제 표준 준비 작업은 일반적으로 ISO 기술위원회를 통해 수행된다. 기술위원회가 설립된 주제에 관심이 있는 각 회원 단체는 그 위원회를 대표할 권리가 있다. ISO와 연계된 정부 및 비정부 국제기구도 이 작업에 참여한다. ISO는 전기 기술 표준화의 모든 문제에 대해 IEC (International Electrotechnical Commission)와 긴밀히 협력한다.
 
 ---
 
