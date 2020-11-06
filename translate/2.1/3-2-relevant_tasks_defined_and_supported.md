@@ -84,4 +84,5 @@ To ensure: i) program responsibilities are effectively supported and resourced a
 이유: 
 
 i) 프로그램 내 각 역할을 효과적으로 지원하며 리소스를 제공하고, ii) 정책 및 지원 프로세스를 정기적으로 업데이트하여 오픈소스 컴플라이언스 모범 사례의 변경 사항을 수용하고 있음을 보장하기 위해서이다. 
+
 ---
