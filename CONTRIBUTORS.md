@@ -2,7 +2,7 @@
 
 | Name | Company | Email |
 |--|--|--|
-| Haksung Jang | LG Electronics | hakssung@gmail.com |
+| Haksung Jang | SK telecom | haksung@sk.com |
 
 
 # Contributor(s):

@@ -17,13 +17,5 @@ OpenChain Specification([https://www.openchainproject.org/spec](https://www.open
 * [./translate/2.1/](translate/2.1)에 번역을 위한 md 파일을 만들었습니다. 각 파일을 열어보면 각 단락별로 영문 원본과 한국어 번역이 작성되어 있습니다. 
 * 한국어 작성 부분이 어색하거나 보완이 필요할 경우, pull request 혹은 maintainer에게 email로 보내주세요.
 
-## Contributor
-| Name | Company | Email | Role
-|--|--|--|--|
-| Haksung Jang | LG Electronics | hakssung@gmail.com | Maintainer |
-| Jongbaek Park | BKL | jb.park@bkl.co.kr | Contributor |
-| Seo-Young Isabelle Hwang | Samsung | seoyoung.hwang@samsung.com | Contributor |
-| Jongho Hong | LGE | jjongho.hong@lge.com | Contributor |
-
 ## License
 번역 결과물은 CC BY 4.0로 공개합니다. : [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
