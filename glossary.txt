@@ -1,64 +1,65 @@
-Requirement	요구사항
-Responsibility	책임
-Review	검토
-Approve	승인
-Copyright	저작권
-License	라이선스
-supply chain	공급망
-open source	오픈소스
-Conformance	적합성
-Conformant	준수
-Introduction	소개
-Definition	정의
-artifact	산출물
-output	결과물
-organization	조직
-Disclaimer	면책
-policy	정책
-process	프로세스
-flexibility	유연성
-program	프로그램
-Identified License	식별된 라이선스
-Supplied Software	공급 대상 소프트웨어
-Compliance	컴플라이언스
-copyright notice	저작권 고지
-modification notifications	수정 내용 고지
-attribution notices	저작자 고지
-Liaison	연락담당자
-product	제품
-Software Staff	소프트웨어 공급담당자
-Rationale	이유
-Training	훈련
-project	프로젝트
-test	테스트
-procedure	절차
-documented procedure	문서화된 절차
-evidence	증거
-inventory	목록
-Binary Form	바이너리 형태
-source form	소스 형태
-source code	소스 코드
-build	빌드
-script	스크립트
-written offer	서면 청약
-Contribution	기여
-Community	커뮤니티
-Specification	설명서
-obligation	의무
-restriction	제한
-right	권리
-use case	사용 사례
-Version	버전
-Software	소프트웨어
-Engineer	엔지니어
-Vision	비전
-Mission	사명
-Goal	목표
-Component	컴포넌트
-accompany	수반하다
-Verification	입증
-contributor	기여자
-Competence	역량
-Task	업무
-content	컨텐츠
-participant	참여자
+Requirement 요구사항
+Responsibility 책임
+Review 검토
+Approve 승인
+Copyright 저작권
+License 라이선스
+supply chain 공급망
+open source 오픈소스
+Conformance 적합, 적합성 (문맥에 따라 사용)
+Conformant 준수
+Introduction 소개
+Definition 정의
+artifact 산출물
+output 결과물
+organization 조직
+Disclaimer 면책
+policy 정책
+process 프로세스
+flexibility 유연성
+program 프로그램
+Identified License 식별된 라이선스
+Supplied Software 배포 대상 소프트웨어
+Compliance 컴플라이언스
+copyright notice 저작권 고지
+modification notifications 수정 내용 고지
+attribution notices 저작자 고지
+Liaison 연락담당자
+product 제품
+Program participant 프로그램 참여자
+Rationale 이유
+Training 훈련
+project 프로젝트
+test 테스트
+procedure 절차
+documented procedure 문서화된 절차
+evidence 증거
+inventory 목록
+Binary Form 바이너리 형태
+source form 소스 형태
+source code 소스 코드
+build 빌드
+script 스크립트
+written offer 서면 청약
+Contribution 기여
+Community 커뮤니티
+Specification 표준 (*ISO표준이 됨에 따라 설명서->표준으로 변경)
+obligation 의무
+restriction 제한
+right 권리
+use case 사용 사례
+Version 버전
+Software 소프트웨어
+Engineer 엔지니어
+Vision 비전
+Mission 사명
+Goal 목표
+Component 컴포넌트
+accompany 수반하다
+Verification 입증
+Verification material 입증 자료
+contributor 기여자
+Competence 역량
+Task 업무
+content 컨텐츠
+participant 참여자
