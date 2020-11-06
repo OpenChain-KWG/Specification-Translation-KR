@@ -2,7 +2,7 @@
 
 | Name | Company | Email |
 |--|--|--|
-| Haksung Jang | SK telecom | haksung@sk.com |
+| [Haksung Jang](https://github.com/haksungjang) | SK telecom | haksung@sk.com |
 
 
 # Contributor(s):
