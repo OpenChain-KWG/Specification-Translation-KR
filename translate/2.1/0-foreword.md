@@ -4,7 +4,7 @@ ISO (the International Organization for Standardization) is a worldwide federati
 
 머리말
 
-ISO(International Organization for Standardization)는 국가 표준 기구(ISO 회원 기구)의 세계적인 연합체다. 국제 표준 준비 작업은 일반적으로 ISO 기술위원회를 통해 수행된다. 기술위원회가 설립된 주제에 관심이 있는 각 회원 단체는 그 위원회를 대표할 권리가 있다. ISO와 연계된 정부 및 비정부 국제기구도 이 작업에 참여한다. ISO는 전기 기술 표준화의 모든 문제에 대해 IEC (International Electrotechnical Commission)와 긴밀히 협력한다.
+ISO(International Organization for Standardization)는 국가 표준 기구(ISO 회원 기구)의 세계적인 연합체이다. 국제 표준 준비 작업은 일반적으로 ISO 기술위원회를 통해 수행된다. 기술위원회가 설립된 주제에 관심이 있는 각 회원 단체는 그 위원회를 대표할 권리가 있다. ISO와 연계된 정부 및 비정부 국제기구도 이 작업에 참여한다. ISO는 전기 기술 표준화의 모든 문제에 대해 IEC (International Electrotechnical Commission)와 긴밀히 협력한다.
 
 ---
 
@@ -26,7 +26,7 @@ Any trade name used in this document is information given for the convenience of
 
 For an explanation of the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO's adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT), see www.iso.org/iso/foreword.html. 
 
-표준의 자발적인 특성에 대한 설명, 적합성 평가와 관련된 ISO 특정 용어 및 표현의 의미, 그리고 무역에 대한 기술적 장벽(TBT, Technical Barriers to Trade)에 있어서 ISO가 세계무역기구(WTO) 원칙을 준수하는 것에 대한 정보는 다음을 참조하세요 : www.iso.org/iso/foreword.html.
+표준의 자발적인 특성에 대한 설명, 적합성 평가와 관련된 ISO 특정 용어 및 표현의 의미, 그리고 무역에 대한 기술적 장벽(TBT, Technical Barriers to Trade)에 있어서 ISO가 세계무역기구(WTO) 원칙을 준수하는 것에 대한 정보는 다음을 참조할 수 있다 : www.iso.org/iso/foreword.html.
 
 ---
 
