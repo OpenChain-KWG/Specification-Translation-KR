@@ -3,7 +3,7 @@
 ### 3.6.1 Conformance
 In order for a program to be deemed OpenChain conformant, the organization shall affirm that the program satisfies the requirements presented in this document.
 
-6.0 표준 요구사항 준수
+6.0 규격 요구사항 준수
 
 6.1	적합성 (Conformance)
 
@@ -38,7 +38,7 @@ A program that is OpenChain conformant with this version of the specification sh
 
 3.6.2 지속 기간
 
-이 표준 버전에 대한 OpenChain 적합 프로그램은 적합성 인증을 획득한 날로부터 18개월 동안 지속되어야 한다. 적합성 인증 등록 절차는 OpenChain 프로젝트의 웹사이트에서 확인할 수 있다. 
+이 버전의 규격에 대한 OpenChain 적합 프로그램은 적합성 인증을 획득한 날로부터 18개월 동안 지속되어야 한다. 적합성 인증 등록 절차는 OpenChain 프로젝트의 웹사이트에서 확인할 수 있다. 
 
 ---
 
@@ -58,6 +58,6 @@ It is important for a program to remain current with the specification if an org
 
 이유: 
 
-조직이 시간이 지나도 적합성을 주장하고자 한다면 표준에 맞게 프로그램을 계속 유지하는 것이 중요하다. 이 요구사항은 조직이 시간이 지난 후에도 계속적으로 프로그램 적합성을 주장하려 할 때, 프로그램의 지원 프로세스와 통제가 약화되지 않았음을 보장하기 위해서이다. 
+조직이 시간이 지나도 적합성을 주장하고자 한다면 규격에 맞게 프로그램을 계속 유지하는 것이 중요하다. 이 요구사항은 조직이 시간이 지난 후에도 계속적으로 프로그램 적합성을 주장하려 할 때, 프로그램의 지원 프로세스와 통제가 약화되지 않았음을 보장하기 위해서이다. 
 
 ---
