@@ -5,7 +5,7 @@
 Maintain a process to effectively respond to external open source inquiries. Publicly identify a means by which a third party can make an open source compliance inquiry.
 
 
-3.2 관련 작업 정의 및 지원
+3.2 관련 업무 정의 및 지원
 
 3.2.1 접근성
 
@@ -48,11 +48,11 @@ such guidance; and
 
 3.2.2 효과적인 리소스 제공
 
-다음의 프로그램 작업을 확인하고 리소스를 제공해야 한다:
+프로그램을 위한 다음의 업무를 확인하고 리소스를 제공해야 한다:
 
-* 프로그램 작업을 성공적으로 수행할 수 있도록 책임을 할당한다. 
-* 프로그램 작업을 위한 충분한 리소스를 제공한다.
-  * 작업을 수행할 시간을 할당한다.
+* 프로그램을 성공적으로 수행할 수 있도록 각 업무에 대한 책임을 할당한다. 
+* 프로그램의 업무를 위한 충분한 리소스를 제공한다.
+  * 업무를 수행할 시간을 할당한다.
   * 적절한 자금을 할당한다.
 * 정책 및 지원 업무를 검토하고 업데이트하는 프로세스가 존재한다.
 * 필요에 따라 오픈소스 라이선스 컴플라이언스와 관련된 전문 법률 자문을 이용할 수 있게 한다.
