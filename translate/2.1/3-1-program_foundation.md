@@ -125,7 +125,7 @@ Different programs may be governed by different levels of scope. For example, a 
 
 3.1.4 프로그램 범위
 
-각 프로그램은 다양한 수준의 범위로 분류하여 관리할 수 있다. 예를 들어, 한 프로그램을 단일 제품군에만 적용할 수도 있고, 전체 부서 또는 전체 조직에 적용하여 관리할 수 있다. 따라서 각 프로그램에서는 적용되는 범위를 정확히 명시해야 한다. 
+프로그램은 다양하게 적용 범위 별로 분류하여 관리할 수 있다. 예를 들어, 한 프로그램을 단일 제품군에만 적용할 수도 있고, 전체 부서 또는 전체 조직에 적용하여 관리할 수 있다. 따라서 각 프로그램에서는 적용되는 범위를 정확히 명시해야 한다.
 
 ---
 
@@ -134,7 +134,7 @@ Different programs may be governed by different levels of scope. For example, a 
 
 입증 자료:
 
-* 3.1.4.1 프로그램의 범위와 한계를 명확하게 정의한 문서화된 표현
+* 3.1.4.1 프로그램의 적용 범위와 한계를 명확하게 정의한 문서화된 표현
 
 ---
 
@@ -155,7 +155,7 @@ A process shall exist for reviewing the identified licenses to determine the obl
 
 3.1.5 라이선스 의무
 
-각 라이선스에 의해 부여된 의무, 제한 및 권리를 알아내기 위해 식별된 라이선스를 검토하는 프로세스가 있어야 한다.
+각 라이선스에 의해 부과된 의무, 제한 및 권리를 알아내기 위해 식별된 라이선스를 검토하는 프로세스가 있어야 한다.
 
 ---
 
@@ -165,7 +165,7 @@ A process shall exist for reviewing the identified licenses to determine the obl
 ---
 입증 자료
 
-* 3.1.5.1 각 식별된 라이선스에 의해 부과되는 의무, 제한 및 권리를 검토하고 기록하기 위한 문서화된 절차
+* 3.1.5.1 각 식별된 라이선스에 의해 부가된 의무, 제한 및 권리를 검토하고 기록하기 위한 문서화된 절차
 ---
 
 #### Rationale:
