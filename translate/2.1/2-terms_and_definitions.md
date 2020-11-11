@@ -99,7 +99,7 @@ materials that demonstrate that a given requirement of the specification is sati
 
 입증 자료
 
-표준의 요구사항이 충족되었음을 입증하는 자료이다. 
+규격의 요구사항이 충족되었음을 입증하는 자료이다. 
 
 ---
 
