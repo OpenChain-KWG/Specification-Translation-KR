@@ -3,7 +3,7 @@
 A process shall exist for creating the set of compliance artifacts for the supplied software.
 
 
-3.4 컴플라이언스 산출물 생성 및 전달
+3.4 컴플라이언스 산출물 생성 및 
 
 3.4.1 컴플라이언스 산출물
 
