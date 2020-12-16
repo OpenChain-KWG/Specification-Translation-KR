@@ -3,9 +3,9 @@
 ### 3.6.1 Conformance
 In order for a program to be deemed OpenChain conformant, the organization shall affirm that the program satisfies the requirements presented in this document.
 
-6.0 규격 요구사항 준수
+3.6.0 규격 요구사항 준수
 
-6.1	적합성 (Conformance)
+3.6.1	적합성 (Conformance)
 
 조직은 자신의 프로그램이 OpenChain에 적합하다고 판단하려면 이 문서에서 제시한 모든 요구사항을 충족하는지 확인해야 한다.
 
@@ -48,7 +48,7 @@ A program that is OpenChain conformant with this version of the specification sh
 
 
 입증 자료:
-* 3.6.2.1 프로그램이 적합성 인증을 획득한 후 18개월 동안 이 문서의 모든 요구사항을 충족 하고 있음을 확인하는 문서
+* 3.6.2.1 프로그램이 적합성 인증을 획득한 후 18개월 동안 이 문서의 모든 요구사항을 충족하고 있음을 확인하는 문서
 
 ---
 
