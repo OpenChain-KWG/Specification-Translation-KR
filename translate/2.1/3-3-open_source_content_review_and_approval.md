@@ -6,7 +6,7 @@ A process shall exist for creating and managing a bill of materials that include
 
 3.3 오픈 소스 컨텐츠 검토 및 승인
 
-3.1 BOM (Bill of Materials)
+3.3.1 BOM (Bill of Materials)
 
 배포 대상 소프트웨어를 구성하는 오픈소스 컴포넌트(및 식별된 라이선스)에 대한 BOM (Bill of Materials)을 생성하고 이를 관리하는 프로세스가 있어야 한다.
 
@@ -41,7 +41,7 @@ The program shall be capable of managing common open source license use cases en
 * Contains open source with attribution requirements.
 
 
-3.2  	라이선스 컴플라이언스
+3.3.2  	라이선스 컴플라이언스
 
 프로그램은 배포 대상 소프트웨어에 대해 프로그램 참여자가 접할 수 있는 일반적인 오픈소스 라이선스의 사용 사례에 대해 어떻게 처리할지를 다뤄야 한다. 여기에는 다음과 같은 사용 사례가 포함될 수 있다(아래 사항이 모든 사례를 다루는 것은 아니며, 또한 이 사례를 모두 다뤄야만 하는 것은 아님) : 
 * 바이너리 형태로 배포
@@ -56,7 +56,7 @@ The program shall be capable of managing common open source license use cases en
 * 3.3.2.1 A documented procedure for handling the common open source license use cases for the open source components of the supplied software.
 
 입증 자료:
-* 3.2.1 배포 대상 소프트웨어 내의 오픈소스 컴포넌트에 대해 일반적인 오픈소스 라이선스 사용 사례를 다루는 문서화된 절차
+* 3.3.2.1 배포 대상 소프트웨어 내의 오픈소스 컴포넌트에 대해 일반적인 오픈소스 라이선스 사용 사례를 다루는 문서화된 절차
 ---
 
 #### Rationale:
