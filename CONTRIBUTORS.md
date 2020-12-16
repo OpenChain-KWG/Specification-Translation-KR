@@ -6,5 +6,6 @@
 | Jongbaek Park | BKL | jb.park@bkl.co.kr | contributor |
 | [Jongho Hong](https://github.com/jjhhong) | LG Electronics | jjongho.hong@lge.com | contributor |
 | Seo-Young Isabelle Hwang | Samsung Electronics | seoyoung.hwang@samsung.com | contributor |
+| [Kyoungae Kim](https://github.com/k2heart) | LG Electronics | kyoungae.kimlge.com | contributor |
 
 
