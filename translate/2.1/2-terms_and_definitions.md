@@ -15,7 +15,7 @@ Note: The collection may include (but is not limited to) one or more of the foll
 
 2.1 컴플라이언스 산출물
 
-컴플라이언스 프로그램의 결과물을 의미한다. 배포 대상 소프트웨어 공급 시 함께 제공해야 하는 산출물의 모음이다. 
+컴플라이언스 프로그램의 결과물을 의미한다. 배포 소프트웨어 공급 시 함께 제공해야 하는 산출물의 모음이다. 
 
 참고: 여기에는 다음 사항이 포함된다(단, 이에 국한되지 않음) : 저작자 고지, 소스 코드, 빌드 및 설치 스크립트, 라이선스 사본, 저작권 고지, 수정 내용 고지, 서면 청약(Written Offer), 오픈소스 컴포넌트 BOM (Bill of Materials), SPDX 문서.
 
@@ -26,7 +26,7 @@ a set of open source software licenses identified as a result of following an ap
 
 2.2 식별된 라이선스
 
-배포 대상 소프트웨어에 포함된 오픈소스 컴포넌트를 식별하기 위한 적절한 방법으로 식별된 일련의 오픈소스 소프트웨어 라이선스이다. 
+배포 소프트웨어에 포함된 오픈소스 컴포넌트를 식별하기 위한 적절한 방법으로 식별된 일련의 오픈소스 소프트웨어 라이선스이다. 
 
 ---
 
@@ -66,7 +66,7 @@ Note: Depending on the organization, that may include (but is not limited to) so
 
 2.6 프로그램 참여자
 
-배포 대상 소프트웨어를 만들고, 이에 기여하거나 준비할 책임이 있는 모든 조직 구성원 혹은 계약자이다. 
+배포 소프트웨어를 만들고, 이에 기여하거나 준비할 책임이 있는 모든 조직 구성원 혹은 계약자이다. 
 
 참고: 조직에 따라 소프트웨어 개발자, 릴리스 엔지니어, 품질 엔지니어, 제품 마케팅 및 제품 관리자가 포함될 수 있다 (단, 이에 국한되지는 않는다).
 
@@ -86,7 +86,7 @@ the format standard created by the Linux Foundation’s SPDX (Software Package D
 ## 2.8 supplied software 
 software that an organization distributes to third parties (e.g., other organizations or individuals)
 
-2.8 배포 대상 소프트웨어
+2.8 배포 소프트웨어
 
 조직이 제3자(예: 다른 조직 또는 개인)에게 배포하는 소프트웨어이다. 
 

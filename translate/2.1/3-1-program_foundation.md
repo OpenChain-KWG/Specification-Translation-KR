@@ -10,7 +10,7 @@ A written open source policy shall exist that governs open source license compli
 
 3.1.1 정책
 
-배포 대상 소프트웨어에 대해 오픈소스 라이선스 컴플라이언스 관리를 위한 문서화된 오픈소스 정책이 있어야 한다. 이 정책은 조직 내부에 전파되어야 한다. 
+배포 소프트웨어에 대해 오픈소스 라이선스 컴플라이언스 관리를 위한 문서화된 오픈소스 정책이 있어야 한다. 이 정책은 조직 내부에 전파되어야 한다. 
 
 ---
 
