@@ -1,5 +1,5 @@
 # 3 Requirements
-## 3.1Program foundation
+## 3.1 Program foundation
 ### 3.1.1 Policy
 
 A written open source policy shall exist that governs open source license compliance of the supplied software. The policy shall be internally communicated.
