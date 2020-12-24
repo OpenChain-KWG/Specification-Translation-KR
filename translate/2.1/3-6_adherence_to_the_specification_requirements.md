@@ -7,7 +7,7 @@ In order for a program to be deemed OpenChain conformant, the organization shall
 
 3.6.1	적합성 (Conformance)
 
-조직은 자신의 프로그램이 OpenChain에 적합하다고 판단하려면 이 문서에서 제시한 모든 요구사항을 충족하는지 확인해야 한다.
+프로그램이 OpenChain에 적합하다고 간주하기 위해서는 조직은 프로그램이 이 규격에서 제시한 모든 요구사항을 충족하는지 확인해야 한다.
 
 ---
 

@@ -19,7 +19,7 @@ process 프로세스
 flexibility 유연성
 program 프로그램
 Identified License 식별된 라이선스
-Supplied Software 배포 소프트웨어
+Supplied Software 배포용 소프트웨어
 Compliance 컴플라이언스
 copyright notice 저작권 고지
 modification notifications 수정 내용 고지
@@ -61,5 +61,5 @@ Verification material 입증 자료
 contributor 기여자
 Competence 역량
 Task 업무
-content 컨텐츠
+content 콘텐츠
 participant 참여자
