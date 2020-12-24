@@ -17,7 +17,7 @@ In order for a program to be deemed OpenChain conformant, the organization shall
 
 입증 자료:
 
-* 3.6.1.1 3.1.4조에서 명시한 프로그램이 이 문서의 모든 요구사항을 충족한다고 선언하는 문서
+* 3.6.1.1 요구사항 3.1.4조에서 명시한 프로그램이 이 규격의 모든 요구사항을 충족함을 확인하는 문서
 
 
 ---
@@ -28,7 +28,7 @@ To ensure that if an organization declares that it has a program that is OpenCha
 
 이유: 
 
-조직이 OpenChain에 적합한 프로그램을 보유했다고 선언하는 것은 그 프로그램이 이 문서의 모든 요구사항을 충족한 것임을 보장하기 위해서이다. 이 요구사항의 일부 만을 충족하는 것으로는 충분하지 않다.
+조직이 OpenChain에 적합한 프로그램을 보유했다고 선언하는 것은 그 프로그램이 이 규격의 모든 요구사항을 충족한 것임을 보장하기 위해서이다. 이 요구사항의 일부 만을 충족하는 것으로는 충분하지 않다.
 
 ---
 
@@ -38,7 +38,7 @@ A program that is OpenChain conformant with this version of the specification sh
 
 3.6.2 지속 기간
 
-이 버전의 규격에 대한 OpenChain 적합 프로그램은 적합성 인증을 획득한 날로부터 18개월 동안 지속되어야 한다. 적합성 인증 등록 절차는 OpenChain 프로젝트의 웹사이트에서 확인할 수 있다. 
+이 규격의 버전 2.1에 적합한 OpenChain 프로그램은 적합성 인증을 획득한 날로부터 18개월 동안 지속되어야 한다. 적합성 인증 등록 절차는 OpenChain 프로젝트의 웹사이트에서 확인할 수 있다. 
 
 ---
 
@@ -48,7 +48,7 @@ A program that is OpenChain conformant with this version of the specification sh
 
 
 입증 자료:
-* 3.6.2.1 프로그램이 적합성 인증을 획득한 후 18개월 동안 이 문서의 모든 요구사항을 충족하고 있음을 확인하는 문서
+* 3.6.2.1 프로그램이 적합성 인증을 획득한 후 지난 18개월 동안 이 규격 버전(v2.1)의 모든 요구사항을 충족하고 있음을 확인하는 문서
 
 ---
 
@@ -58,6 +58,6 @@ It is important for a program to remain current with the specification if an org
 
 이유: 
 
-조직이 시간이 지나도 적합성을 주장하고자 한다면 규격에 맞게 프로그램을 계속 유지하는 것이 중요하다. 이 요구사항은 조직이 시간이 지난 후에도 계속적으로 프로그램 적합성을 주장하려 할 때, 프로그램의 지원 프로세스와 통제가 약화되지 않았음을 보장하기 위해서이다. 
+조직이 시간이 지나도 적합성을 주장하고자 한다면 프로그램을 규격에 맞게 계속 유지하는 것이 중요하다. 이 요구사항은 조직이 시간이 지난 후에도 계속해서 프로그램 적합성을 주장하더라도 프로그램의 지원 프로세스와 통제가 약화되지 않았음을 보장하기 위해서이다. 
 
 ---
