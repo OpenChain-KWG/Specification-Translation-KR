@@ -10,7 +10,7 @@ A written open source policy shall exist that governs open source license compli
 
 3.1.1 정책
 
-배포용 소프트웨어의 오픈소스 라이선스 컴플라이언스 관리를 위한 문서화된 오픈소스 정책이 있어야 한다. 이 정책은 조직 내부에 전파되어야 한다. 
+배포용 소프트웨어의 오픈소스 라이선스 컴플라이언스를 관리하는 문서화된 오픈소스 정책이 있어야 한다. 이 정책은 조직 내부에 전파되어야 한다.
 
 ---
 
@@ -50,7 +50,7 @@ The organization shall
 
 조직은 다음 사항을 수행해야 한다: 
 * 프로그램의 성과와 효율에 영향을 미치는 역할이 무엇인지, 그 역할에 해당하는 책임은 무엇인지 확인한다. 
-* 각 역할을 수행하는 프로그램 참여자가 갖춰야 할 필요 역량을 결정한다. 
+* 각 역할을 수행할 프로그램 참여자가 갖춰야 할 필요 역량을 결정한다. 
 * 프로그램 참여자가 적절한 교육, 훈련 및/또는 경험을 바탕으로 자격을 갖춘 자임을 확인한다.
 * 해당되는 경우, 필요한 역량을 확보하기 위해 조치한다.
 * 역량 보유를 증명하기 위한 정보를 문서화하여 유지한다. 
@@ -65,7 +65,7 @@ The organization shall
 
 #### 입증 자료:
 
-* 3.1.2.1 프로그램 참여자에 대한 역할과 각 역할에 대한 책임을 나열한 문서
+* 3.1.2.1 프로그램의 여러 참여자에 대한 역할과 각 역할의 책임을 나열한 문서 
 * 3.1.2.2 각 역할을 위해 필요한 역량을 기술한 문서
 * 3.1.2.3 각 프로그램 참여자의 역량을 평가한 문서화된 증거
 ---
@@ -89,7 +89,7 @@ The organization shall ensure that the program participants are aware of:
 
 인식
 
-조직은 프로그램 참여자가 다음 사항을 인지하도록 보장해야 한다:
+조직은 프로그램 참여자가 다음 사항을 인식하도록 보장해야 한다:
 
 * 오픈소스 정책
 * 오픈소스 관련 목표
@@ -123,7 +123,7 @@ To ensure the program participants have obtained a sufficient level of awareness
 Different programs may be governed by different levels of scope. For example, a program could govern a single product line, an entire department or an entire organization. The scope designation needs to be declared for each program.
 
 
-3.1.4 프로그램 범위
+3.1.4 프로그램 적용 범위
 
 프로그램은 다양한 범위 별로 적용하여 관리할 수 있다. 예를 들어, 한 프로그램을 단일 제품군에만 적용할 수도 있고, 전체 부서 또는 전체 조직에 적용하여 관리할 수 있다. 따라서 각 프로그램에서는 적용 범위를 정확히 명시해야 한다.
 
