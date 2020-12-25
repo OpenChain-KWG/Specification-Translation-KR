@@ -13,3 +13,9 @@ This introduction provides the context for all potential users. Clause 2 defines
 여기에서는 모든 잠재적 사용자를 위한 개요를 제공한다. 2장에서는 이 문서 전체에서 사용되는 주요 용어를 정의한다. 3장에서는 프로그램이 OpenChain에 적합하기 위해 충족해야 하는 요구 사항을 정의한다. 각 요구 사항은 이를 충족하기 위해 생성해야 하는 하나 이상의 입증 자료(문서 등)를 포함한다. 입증 자료를 공개해야 하는 것은 아니지만, 필요할 경우 NDA(Non-Disclosure Agreement)를 맺고 다른 조직에 제공할 수 있다. 이 문서는 200명 이상의 기여자들로부터 피드백을 받아 오픈 이니셔티브로 개발되었다. 역사적인 발전 과정을 이해하기 위해서는 Specification Mailing List와 FAQ를 참고할 수 있다.
 
 ---
+
+This specification is licensed under Creative Commons Attribution License 4.0 (CC-BY-4.0).
+
+이 규격은 Creative Commons Attribution License 4.0 (CC-BY-4.0)에 따라 라이선스가 부여된다.
+
+---
