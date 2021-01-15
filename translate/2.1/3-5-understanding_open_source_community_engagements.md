@@ -2,7 +2,8 @@
 
 ### 3.5.1 Contributions
 If an organization considers contributions to open source projects, then
-* a written policy shall exist that governs contributions to open source projects; * the policy shall be internally communicated; and
+* a written policy shall exist that governs contributions to open source projects; 
+* the policy shall be internally communicated; and
 * a process shall exist that implements the policy
 
 
