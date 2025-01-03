@@ -4,7 +4,7 @@ For the purposes of this document, the following terms and definitions apply.
 
 2 용어와 정의
 
-이 문서의 목적을 위해 다음과 같은 용어와 정의를 적용한다. 
+이 문서의 목적을 위해 다음과 같은 용어와 정의를 적용합니다.
 
 ---
 
@@ -15,9 +15,9 @@ Note: The collection may include (but is not limited to) one or more of the foll
 
 2.1 컴플라이언스 산출물
 
-컴플라이언스 프로그램의 결과물을 나타내며 배포용 소프트웨어와 함께 제공해야 하는 산출물의 모음이다. 
+컴플라이언스 프로그램의 결과물을 나타내며 공급 소프트웨어와 함께 제공해야 하는 산출물의 모음입니다.
 
-참고: 여기에는 다음 사항이 포함된다(단, 이에 국한되지 않음) : 저작자 고지, 소스 코드, 빌드 및 설치 스크립트, 라이선스 사본, 저작권 고지, 수정 내용 고지, 서면 청약(Written Offer), 오픈소스 컴포넌트 BOM (Bill of Materials), SPDX 문서.
+참고: 여기에는 다음 사항이 포함됩니다(단, 이에 국한되지 않음): 저작자 고지, 소스 코드, 빌드 및 설치 스크립트, 라이선스 사본, 저작권 고지, 수정 내용 고지, 서면 청약(Written Offer), 오픈소스 컴포넌트 SBOM(Software Bill of Materials), SPDX 문서.
 
 ---
 
@@ -26,7 +26,7 @@ a set of open source software licenses identified as a result of following an ap
 
 2.2 식별된 라이선스
 
-배포용 소프트웨어에 포함된 오픈소스 컴포넌트를 식별하기 위한 적절한 방법으로 식별된 일련의 오픈소스 라이선스 집합이다.
+공급 소프트웨어에 포함된 오픈소스 컴포넌트를 식별하기 위한 적절한 방법으로 식별된 일련의 오픈소스 라이선스 집합입니다.
 
 ---
 
@@ -36,7 +36,7 @@ a program that satisfies all the requirements of this document
 
 2.3 OpenChain 적합(Conformant)
 
-이 문서의 모든 요구사항을 충족하는 프로그램이다.
+이 문서의 모든 요구사항을 충족하는 프로그램입니다.
 
 ---
 
@@ -46,7 +46,7 @@ software subject to one or more licenses that meet the Open Source Definition pu
 
 2.4 오픈소스
 
-Open Source Initiative에서 만든 Open Source Definition (opensource.org/osd) 혹은 Free Software Foundation에서 만든 Free Software Definition (gnu.org/philosophy/free-sw.html)을 충족하는 라이선스, 혹은 이와 유사한 라이선스가 하나 이상 적용된 소프트웨어이다.
+Open Source Initiative에서 만든 Open Source Definition(opensource.org/osd) 혹은 Free Software Foundation에서 만든 Free Software Definition(gnu.org/philosophy/free-sw.html)을 충족하는 라이선스, 혹은 이와 유사한 라이선스가 하나 이상 적용된 소프트웨어입니다.
 
 ---
 
@@ -55,7 +55,7 @@ the set of policies, processes and personnel that comprise an organization’s o
 
 2.5 프로그램
 
-조직의 오픈소스 라이선스 컴플라이언스 활동을 구성하는 정책, 프로세스 및 인력의 집합이다.
+조직의 오픈소스 라이선스 컴플라이언스 활동을 구성하는 정책, 프로세스 및 인력의 집합입니다.
 
 ---
 
@@ -66,9 +66,9 @@ Note: Depending on the organization, that may include (but is not limited to) so
 
 2.6 프로그램 참여자
 
-배포용 소프트웨어를 만들고, 이에 기여하거나 준비할 책임이 있는 모든 조직 구성원 혹은 계약자이다. 
+공급 소프트웨어를 만들고, 이에 기여하거나 준비할 책임이 있는 모든 조직 구성원 혹은 계약자입니다.
 
-참고: 조직에 따라 소프트웨어 개발자, 릴리스 엔지니어, 품질 엔지니어, 제품 마케팅 및 제품 관리자가 포함될 수 있다 (단, 이에 국한되지는 않는다).
+참고: 조직에 따라 소프트웨어 개발자, 릴리스 엔지니어, 품질 엔지니어, 제품 마케팅 및 제품 관리자가 포함될 수 있습니다(단, 이에 국한되지는 않습니다).
 
 ---
 
@@ -79,16 +79,16 @@ the format standard created by the Linux Foundation’s SPDX (Software Package D
 
 2.7 SPDX
 
-소프트웨어 패키지를 주고 받을 때 라이선스 및 저작권 정보를 포함한 BOM(Bill of Materials)을 교환하기 위해 Linux Fouindation의 SPDX(Software Package Data Exchange) Working Group에서 만든 형식 표준이다(spdx.org 참조). 
+소프트웨어 패키지를 교환할 때 라이선스 및 저작권 정보를 포함한 SBOM(Software Bill of Materials)을 교환하기 위해 Linux Foundation의 SPDX(Software Package Data Exchange) Working Group에서 만든 형식 표준입니다(spdx.org 참조).
 
 ---
 
 ## 2.8 supplied software 
 software that an organization distributes to third parties (e.g., other organizations or individuals)
 
-2.8 배포용 소프트웨어
+2.8 공급 소프트웨어
 
-조직이 제 3자(예: 다른 조직 또는 개인)에게 배포하는 소프트웨어이다. 
+조직이 제3자(예: 다른 조직 또는 개인)에게 배포하는 소프트웨어입니다.
 
 ---
 
@@ -100,9 +100,9 @@ ISO	and	IEC	maintain	terminological	databases	for	use	in	standardization	at	the	
 — ISO	Online	browsing	platform:	available	at	https://www.iso.org/obp
 — IEC	Electropedia:	available	at	http://www.electropedia.org/
 
-2.9 입증 자료
+2.9 검증 자료
 
-규격의 요구사항이 충족되었음을 입증하는 자료이다. 
+규격의 요구사항이 충족되었음을 입증하는 자료입니다.
 
 ---
 
@@ -112,7 +112,7 @@ ISO and IEC maintain terminological databases for use in standardization at the 
 * IEC Electropedia: available at http://www.electropedia.org/
 
 
-ISO 및 IEC는 다음 주소에서 표준화에 사용할 용어 정의 데이터베이스를 유지한다. 
+ISO 및 IEC는 다음 주소에서 표준화에 사용할 용어 정의 데이터베이스를 유지합니다.
 
 * ISO Online browsing platform: https://www.iso.org/obp
 * IEC Electropedia: http://www.electropedia.org/

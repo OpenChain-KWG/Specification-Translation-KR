@@ -10,7 +10,7 @@ A written open source policy shall exist that governs open source license compli
 
 3.1.1 정책
 
-배포용 소프트웨어의 오픈소스 라이선스 컴플라이언스를 관리하는 문서화된 오픈소스 정책이 있어야 한다. 이 정책은 조직 내부에 전파되어야 한다.
+공급 소프트웨어의 오픈소스 라이선스 컴플라이언스를 관리하는 문서화된 오픈소스 정책이 있어야 합니다. 이 정책은 조직 내부에 전파되어야 합니다.
 
 ---
 
@@ -19,10 +19,10 @@ A written open source policy shall exist that governs open source license compli
 * 3.1.1.2 A documented procedure that makes program participants aware of the existence of the open source policy (e.g., via training, internal wiki, or other practical communication method).
 
 
-입증 자료
+검증 자료
 
 * 3.1.1.1 문서화된 오픈소스 정책
-* 3.1.1.2 프로그램 참여자가 오픈소스 정책의 존재를 알 수 있게 하는 문서화 된 절차 (교육, 내부 위키, 혹은 기타 실질적인 전달 방법 등)
+* 3.1.1.2 프로그램 참여자가 오픈소스 정책의 존재를 알 수 있게 하는 문서화된 절차(교육, 내부 위키, 혹은 기타 실질적인 전달 방법 등)
 ---
 
 #### Rationale: 
@@ -31,7 +31,7 @@ To ensure steps are taken to create, record and make program participants aware 
 
 이유
 
-오픈소스 정책을 만들고, 프로그램 참여자가 오픈소스 정책의 존재를 인식하도록 보장하기 위해서이다. 정책에 어떤 사항이 포함되어야 하는 지에 대해서는 다음 섹션에서 다룬다.
+오픈소스 정책을 만들고, 프로그램 참여자가 오픈소스 정책의 존재를 인식하도록 보장하기 위해서입니다. 정책에 어떤 사항이 포함되어야 하는지에 대해서는 다음 섹션에서 다룹니다.
 
 ---
 
@@ -48,12 +48,12 @@ The organization shall
 
 3.1.2 역량
 
-조직은 다음 사항을 수행해야 한다: 
-* 프로그램의 성과와 효율에 영향을 미치는 역할이 무엇인지, 그 역할에 해당하는 책임은 무엇인지 확인한다. 
-* 각 역할을 수행할 프로그램 참여자가 갖춰야 할 필요 역량을 결정한다. 
-* 프로그램 참여자가 적절한 교육, 훈련 및/또는 경험을 바탕으로 자격을 갖춘 자임을 확인한다.
-* 해당되는 경우, 필요한 역량을 확보하기 위해 조치한다.
-* 역량 보유를 증명하기 위한 정보를 문서화하여 유지한다. 
+조직은 다음 사항을 수행해야 합니다:
+* 프로그램의 성과와 효율에 영향을 미치는 역할이 무엇인지, 그 역할에 해당하는 책임은 무엇인지 확인합니다.
+* 각 역할을 수행할 프로그램 참여자가 갖춰야 할 필요 역량을 결정합니다.
+* 프로그램 참여자가 적절한 교육, 훈련 및/또는 경험을 바탕으로 자격을 갖춘 자임을 확인합니다.
+* 해당되는 경우, 필요한 역량을 확보하기 위해 조치합니다.
+* 역량 보유를 증명하기 위한 정보를 문서화하여 유지합니다.
 
 ---
 
@@ -63,9 +63,9 @@ The organization shall
 * 3.1.2.3 Documented evidence of assessed competence for each program participant.
 
 
-#### 입증 자료:
+검증 자료:
 
-* 3.1.2.1 프로그램의 여러 참여자에 대한 역할과 각 역할의 책임을 나열한 문서 
+* 3.1.2.1 프로그램의 여러 참여자에 대한 역할과 각 역할의 책임을 나열한 문서
 * 3.1.2.2 각 역할을 위해 필요한 역량을 기술한 문서
 * 3.1.2.3 각 프로그램 참여자의 역량을 평가한 문서화된 증거
 ---
@@ -75,7 +75,7 @@ Ensure that the program participants have obtained a sufficient level of compete
 
 이유
 
-프로그램 참여자가 각자의 역할과 책임을 위한 충분한 수준의 역량을 확보하였음을 보장하기 위해서이다.
+프로그램 참여자가 각자의 역할과 책임을 위한 충분한 수준의 역량을 확보하였음을 보장하기 위해서입니다.
 
 ---
 
@@ -89,7 +89,7 @@ The organization shall ensure that the program participants are aware of:
 
 인식
 
-조직은 프로그램 참여자가 다음 사항을 인식하도록 보장해야 한다:
+조직은 프로그램 참여자가 다음 사항을 인식하도록 보장해야 합니다:
 
 * 오픈소스 정책
 * 오픈소스 관련 목표
@@ -103,9 +103,9 @@ The organization shall ensure that the program participants are aware of:
 * 3.1.3.1 Documented evidence of assessed awareness for the program participants - which should include the program’s objectives, one’s contribution within the program, and implications of program non-conformance.
 
 
-입증 자료: 
+검증 자료:
 
-3.1.3.1 다음 사항에 대한 프로그램 참여자의 인식을 평가하였음을 나타내는 문서화된 증거 : 프로그램의 목표, 프로그램 내에서의 참여자 기여 방법 및 프로그램을 준수하지 않을 경우 미치는 영향
+* 3.1.3.1 다음 사항에 대한 프로그램 참여자의 인식을 평가하였음을 나타내는 문서화된 증거: 프로그램의 목표, 프로그램 내에서의 참여자 기여 방법 및 프로그램을 준수하지 않을 경우 미치는 영향
 
 ---
 
@@ -115,7 +115,7 @@ To ensure the program participants have obtained a sufficient level of awareness
 
 이유:
 
-프로그램 참여자가 프로그램 내에서 각자의 역할과 책임에 대해 충분한 수준의 인식을 갖고 있음을 보장하기 위해서이다.
+프로그램 참여자가 프로그램 내에서 각자의 역할과 책임에 대해 충분한 수준의 인식을 갖고 있음을 보장하기 위해서입니다.
 
 ---
 
@@ -125,14 +125,14 @@ Different programs may be governed by different levels of scope. For example, a 
 
 3.1.4 프로그램 적용 범위
 
-프로그램은 다양한 범위 별로 적용하여 관리할 수 있다. 예를 들어, 한 프로그램을 단일 제품군에만 적용할 수도 있고, 전체 부서 또는 전체 조직에 적용하여 관리할 수 있다. 따라서 각 프로그램에서는 적용 범위를 정확히 명시해야 한다.
+프로그램은 다양한 범위별로 적용하여 관리할 수 있습니다. 예를 들어, 한 프로그램을 단일 제품군에만 적용할 수도 있고, 전체 부서 또는 전체 조직에 적용하여 관리할 수 있습니다. 따라서 각 프로그램에서는 적용 범위를 정확히 명시해야 합니다.
 
 ---
 
 #### Verification material(s):
 * 3.1.4.1 A written statement that clearly defines the scope and limits of the program. 
 
-입증 자료:
+검증 자료:
 
 * 3.1.4.1 프로그램의 적용 범위와 한계를 명확하게 정의한 문서화된 진술
 
@@ -144,7 +144,7 @@ To provide the flexibility to construct a program that best fits the scope of an
 
 이유: 
 
-조직의 필요 범위에 맞게 가장 적합한 프로그램을 유연하게 구성하기 위해서이다. 어떤 조직은 프로그램을 특정 제품군을 관리하도록 적용할 수 있고, 또 어떤 프로그램은 전체 조직에서 배포하는 소프트웨어를 관리하도록 지정할 수 있다.
+조직의 필요 범위에 맞게 가장 적합한 프로그램을 유연하게 구성하기 위해서입니다. 어떤 조직은 프로그램을 특정 제품군을 관리하도록 적용할 수 있고, 또 어떤 프로그램은 전체 조직에서 공급하는 소프트웨어를 관리하도록 지정할 수 있습니다.
 
 ---
 
@@ -155,7 +155,7 @@ A process shall exist for reviewing the identified licenses to determine the obl
 
 3.1.5 라이선스 의무
 
-각 라이선스에 의해 부과된 의무, 제한 및 권리를 알아내기 위해 식별된 라이선스를 검토하는 프로세스가 있어야 한다.
+각 라이선스에 의해 부과된 의무, 제한 및 권리를 알아내기 위해 식별된 라이선스를 검토하는 프로세스가 있어야 합니다.
 
 ---
 
@@ -163,7 +163,7 @@ A process shall exist for reviewing the identified licenses to determine the obl
 * 3.1.5.1 A documented procedure to review and document the obligations, restrictions and rights granted by each identified license.
 
 ---
-입증 자료
+검증 자료
 
 * 3.1.5.1 각 식별된 라이선스에 의해 부여된 의무, 제한 및 권리를 검토하고 기록하기 위한 문서화된 절차
 ---
@@ -175,6 +175,6 @@ To ensure a process exists for reviewing and identifying the license obligations
 
 이유
 
-조직이 직면할 수 있는 다양한 사용 사례(3.3.2조 정의)에 대해 식별된 각 라이선스의 의무를 검토하고 확인하는 프로세스가 있음을 보장하기 위해서이다.
+조직이 직면할 수 있는 다양한 사용 사례(3.3.2조 정의)에 대해 식별된 각 라이선스의 의무를 검토하고 확인하는 프로세스가 있음을 보장하기 위해서입니다.
 
 ---
